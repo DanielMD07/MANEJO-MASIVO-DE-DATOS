@@ -2,7 +2,7 @@
 **Sistema de recomendación de reposición de inventario**
 
 Unidad I — Fundamentos de Big Data (Manejo Masivo de Datos)
-Integrantes: _(nombres del equipo)_ · Grupo IDIA 222 · UPQ
+Integrantes: Garcia Trejo Regina Zoe, Hernandez Alfonso Emmanuel, Malagon De Santiago Daniel Efren · Grupo IDIA 222 · UPQ
 
 ## Problema
 Una tienda universitaria vende 12 productos y debe decidir **qué pedir, cuánto y cuándo** sin quedarse sin
@@ -28,8 +28,8 @@ Flujo: `Datos → Análisis → Resultado → Recomendación → Acción`
 
 ## Instalación
 ```bash
-git clone <URL-DEL-REPOSITORIO>
-cd proyecto-big-data
+git clone https://github.com/DanielMD07/MANEJO-MASIVO-DE-DATOS.git
+cd MANEJO-MASIVO-DE-DATOS
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -54,4 +54,6 @@ El diagrama de arquitectura está en `docs/arquitectura.png`.
 - Es un modelo simplificado para comprender el concepto, no un sistema de producción.
 
 ## Conclusiones individuales
-_(Cada integrante agrega aquí su conclusión.)_
+- **Malagon De Santiago Daniel Efren:** (tu conclusión)
+- **Garcia Trejo Regina Zoe:** (su conclusión)
+- **Hernandez Alfonso Emmanuel:** (su conclusión)
