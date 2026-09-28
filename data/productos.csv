@@ -1,0 +1,13 @@
+producto,dias_entrega,costo_unitario,costo_pedido,stock_actual
+Agua 600 ml,2,8,40,130
+Refresco 600 ml,2,14,40,70
+Papas fritas,3,12,50,300
+Galletas,3,10,50,200
+Café en vaso,1,18,40,30
+Sándwich,1,28,40,110
+Cuaderno,5,35,80,100
+Pluma,5,6,80,420
+Calculadora,10,220,100,35
+USB 32 GB,8,110,100,40
+Audífonos,8,160,100,25
+Mochila,12,380,120,55

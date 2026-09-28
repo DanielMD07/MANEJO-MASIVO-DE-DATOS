@@ -1,0 +1,13 @@
+producto,dias_entrega,costo_unitario,costo_pedido,stock_actual,demanda_diaria,desviacion,stock_seguridad,punto_reorden,eoq,dias_cobertura,estado,cantidad_sugerida,costo_pedido_total,justificacion,accion
+Refresco 600 ml,2,14,40,70,56.6,20.744089311881357,49.0,163.0,769.0,1.2367491166077738,URGENTE,862,12068,Stock (70) <= punto de reorden (163); cubre 1.2 días y el proveedor tarda 2. Se agotará antes de que llegue el pedido.,Pedir ahora
+Café en vaso,1,18,40,30,49.333333333333336,19.464084224865132,33.0,83.0,633.0,0.6081081081081081,URGENTE,686,12348,Stock (30) <= punto de reorden (83); cubre 0.6 días y el proveedor tarda 1. Se agotará antes de que llegue el pedido.,Pedir ahora
+USB 32 GB,8,110,100,40,5.366666666666666,3.0792221737643906,15.0,58.0,134.0,7.453416149068324,URGENTE,152,16720,Stock (40) <= punto de reorden (58); cubre 7.5 días y el proveedor tarda 8. Se agotará antes de que llegue el pedido.,Pedir ahora
+Calculadora,10,220,100,35,4.233333333333333,2.6087826905353353,14.0,57.0,84.0,8.26771653543307,URGENTE,106,23320,Stock (35) <= punto de reorden (57); cubre 8.3 días y el proveedor tarda 10. Se agotará antes de que llegue el pedido.,Pedir ahora
+Audífonos,8,160,100,25,5.066666666666666,2.947042156343266,14.0,55.0,108.0,4.934210526315789,URGENTE,138,22080,Stock (25) <= punto de reorden (55); cubre 4.9 días y el proveedor tarda 8. Se agotará antes de que llegue el pedido.,Pedir ahora
+Cuaderno,5,35,80,100,16.566666666666666,6.032574410895276,23.0,106.0,372.0,6.036217303822938,PEDIR,378,13230,Stock (100) <= punto de reorden (106); cubre 6.0 días y el proveedor tarda 5.,Pedir ahora
+Agua 600 ml,2,8,40,130,54.2,20.192863198118562,48.0,157.0,995.0,2.3985239852398523,PEDIR,1022,8176,Stock (130) <= punto de reorden (157); cubre 2.4 días y el proveedor tarda 2.,Pedir ahora
+Galletas,3,10,50,200,28.866666666666667,11.755360723819853,34.0,121.0,726.0,6.928406466512702,OK,0,0,Stock (200) por encima del punto de reorden (121); alcanza para 6.9 días.,No pedir
+Pluma,5,6,80,420,44.46666666666667,15.988645396317832,59.0,282.0,1472.0,9.44527736131934,OK,0,0,Stock (420) por encima del punto de reorden (282); alcanza para 9.4 días.,No pedir
+Sándwich,1,28,40,110,23.266666666666666,9.077951057496335,15.0,39.0,349.0,4.7277936962750715,OK,0,0,Stock (110) por encima del punto de reorden (39); alcanza para 4.7 días.,No pedir
+Papas fritas,3,12,50,300,33.36666666666667,12.388769478660999,36.0,137.0,713.0,8.991008991008991,OK,0,0,Stock (300) por encima del punto de reorden (137); alcanza para 9.0 días.,No pedir
+Mochila,12,380,120,55,2.7333333333333334,2.066703744569137,12.0,45.0,57.0,20.121951219512194,OK,0,0,Stock (55) por encima del punto de reorden (45); alcanza para 20.1 días.,No pedir

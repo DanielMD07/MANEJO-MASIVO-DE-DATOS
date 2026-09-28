@@ -1,0 +1,4381 @@
+fecha,producto,unidades
+2025-09-28,Agua 600 ml,35
+2025-09-29,Agua 600 ml,79
+2025-09-30,Agua 600 ml,76
+2025-10-01,Agua 600 ml,58
+2025-10-02,Agua 600 ml,66
+2025-10-03,Agua 600 ml,72
+2025-10-04,Agua 600 ml,29
+2025-10-05,Agua 600 ml,31
+2025-10-06,Agua 600 ml,78
+2025-10-07,Agua 600 ml,76
+2025-10-08,Agua 600 ml,76
+2025-10-09,Agua 600 ml,68
+2025-10-10,Agua 600 ml,59
+2025-10-11,Agua 600 ml,27
+2025-10-12,Agua 600 ml,29
+2025-10-13,Agua 600 ml,58
+2025-10-14,Agua 600 ml,62
+2025-10-15,Agua 600 ml,67
+2025-10-16,Agua 600 ml,74
+2025-10-17,Agua 600 ml,78
+2025-10-18,Agua 600 ml,28
+2025-10-19,Agua 600 ml,33
+2025-10-20,Agua 600 ml,61
+2025-10-21,Agua 600 ml,77
+2025-10-22,Agua 600 ml,74
+2025-10-23,Agua 600 ml,68
+2025-10-24,Agua 600 ml,59
+2025-10-25,Agua 600 ml,33
+2025-10-26,Agua 600 ml,31
+2025-10-27,Agua 600 ml,72
+2025-10-28,Agua 600 ml,70
+2025-10-29,Agua 600 ml,61
+2025-10-30,Agua 600 ml,79
+2025-10-31,Agua 600 ml,52
+2025-11-01,Agua 600 ml,26
+2025-11-02,Agua 600 ml,31
+2025-11-03,Agua 600 ml,73
+2025-11-04,Agua 600 ml,77
+2025-11-05,Agua 600 ml,75
+2025-11-06,Agua 600 ml,59
+2025-11-07,Agua 600 ml,59
+2025-11-08,Agua 600 ml,29
+2025-11-09,Agua 600 ml,27
+2025-11-10,Agua 600 ml,66
+2025-11-11,Agua 600 ml,82
+2025-11-12,Agua 600 ml,76
+2025-11-13,Agua 600 ml,68
+2025-11-14,Agua 600 ml,68
+2025-11-15,Agua 600 ml,27
+2025-11-16,Agua 600 ml,24
+2025-11-17,Agua 600 ml,76
+2025-11-18,Agua 600 ml,67
+2025-11-19,Agua 600 ml,71
+2025-11-20,Agua 600 ml,55
+2025-11-21,Agua 600 ml,65
+2025-11-22,Agua 600 ml,22
+2025-11-23,Agua 600 ml,31
+2025-11-24,Agua 600 ml,71
+2025-11-25,Agua 600 ml,90
+2025-11-26,Agua 600 ml,76
+2025-11-27,Agua 600 ml,69
+2025-11-28,Agua 600 ml,85
+2025-11-29,Agua 600 ml,30
+2025-11-30,Agua 600 ml,27
+2025-12-01,Agua 600 ml,67
+2025-12-02,Agua 600 ml,59
+2025-12-03,Agua 600 ml,57
+2025-12-04,Agua 600 ml,63
+2025-12-05,Agua 600 ml,75
+2025-12-06,Agua 600 ml,25
+2025-12-07,Agua 600 ml,31
+2025-12-08,Agua 600 ml,78
+2025-12-09,Agua 600 ml,64
+2025-12-10,Agua 600 ml,63
+2025-12-11,Agua 600 ml,60
+2025-12-12,Agua 600 ml,81
+2025-12-13,Agua 600 ml,30
+2025-12-14,Agua 600 ml,35
+2025-12-15,Agua 600 ml,66
+2025-12-16,Agua 600 ml,75
+2025-12-17,Agua 600 ml,85
+2025-12-18,Agua 600 ml,58
+2025-12-19,Agua 600 ml,59
+2025-12-20,Agua 600 ml,32
+2025-12-21,Agua 600 ml,24
+2025-12-22,Agua 600 ml,69
+2025-12-23,Agua 600 ml,58
+2025-12-24,Agua 600 ml,58
+2025-12-25,Agua 600 ml,74
+2025-12-26,Agua 600 ml,61
+2025-12-27,Agua 600 ml,34
+2025-12-28,Agua 600 ml,23
+2025-12-29,Agua 600 ml,84
+2025-12-30,Agua 600 ml,64
+2025-12-31,Agua 600 ml,64
+2026-01-01,Agua 600 ml,72
+2026-01-02,Agua 600 ml,59
+2026-01-03,Agua 600 ml,40
+2026-01-04,Agua 600 ml,29
+2026-01-05,Agua 600 ml,78
+2026-01-06,Agua 600 ml,62
+2026-01-07,Agua 600 ml,72
+2026-01-08,Agua 600 ml,71
+2026-01-09,Agua 600 ml,66
+2026-01-10,Agua 600 ml,32
+2026-01-11,Agua 600 ml,29
+2026-01-12,Agua 600 ml,62
+2026-01-13,Agua 600 ml,78
+2026-01-14,Agua 600 ml,53
+2026-01-15,Agua 600 ml,59
+2026-01-16,Agua 600 ml,64
+2026-01-17,Agua 600 ml,39
+2026-01-18,Agua 600 ml,26
+2026-01-19,Agua 600 ml,57
+2026-01-20,Agua 600 ml,51
+2026-01-21,Agua 600 ml,51
+2026-01-22,Agua 600 ml,73
+2026-01-23,Agua 600 ml,64
+2026-01-24,Agua 600 ml,37
+2026-01-25,Agua 600 ml,17
+2026-01-26,Agua 600 ml,62
+2026-01-27,Agua 600 ml,71
+2026-01-28,Agua 600 ml,50
+2026-01-29,Agua 600 ml,69
+2026-01-30,Agua 600 ml,78
+2026-01-31,Agua 600 ml,40
+2026-02-01,Agua 600 ml,35
+2026-02-02,Agua 600 ml,76
+2026-02-03,Agua 600 ml,70
+2026-02-04,Agua 600 ml,79
+2026-02-05,Agua 600 ml,66
+2026-02-06,Agua 600 ml,63
+2026-02-07,Agua 600 ml,30
+2026-02-08,Agua 600 ml,25
+2026-02-09,Agua 600 ml,66
+2026-02-10,Agua 600 ml,66
+2026-02-11,Agua 600 ml,64
+2026-02-12,Agua 600 ml,83
+2026-02-13,Agua 600 ml,65
+2026-02-14,Agua 600 ml,37
+2026-02-15,Agua 600 ml,35
+2026-02-16,Agua 600 ml,72
+2026-02-17,Agua 600 ml,75
+2026-02-18,Agua 600 ml,74
+2026-02-19,Agua 600 ml,58
+2026-02-20,Agua 600 ml,56
+2026-02-21,Agua 600 ml,35
+2026-02-22,Agua 600 ml,42
+2026-02-23,Agua 600 ml,71
+2026-02-24,Agua 600 ml,72
+2026-02-25,Agua 600 ml,71
+2026-02-26,Agua 600 ml,68
+2026-02-27,Agua 600 ml,76
+2026-02-28,Agua 600 ml,30
+2026-03-01,Agua 600 ml,40
+2026-03-02,Agua 600 ml,57
+2026-03-03,Agua 600 ml,73
+2026-03-04,Agua 600 ml,76
+2026-03-05,Agua 600 ml,65
+2026-03-06,Agua 600 ml,76
+2026-03-07,Agua 600 ml,28
+2026-03-08,Agua 600 ml,24
+2026-03-09,Agua 600 ml,85
+2026-03-10,Agua 600 ml,66
+2026-03-11,Agua 600 ml,70
+2026-03-12,Agua 600 ml,76
+2026-03-13,Agua 600 ml,72
+2026-03-14,Agua 600 ml,31
+2026-03-15,Agua 600 ml,36
+2026-03-16,Agua 600 ml,68
+2026-03-17,Agua 600 ml,64
+2026-03-18,Agua 600 ml,76
+2026-03-19,Agua 600 ml,63
+2026-03-20,Agua 600 ml,73
+2026-03-21,Agua 600 ml,23
+2026-03-22,Agua 600 ml,25
+2026-03-23,Agua 600 ml,73
+2026-03-24,Agua 600 ml,72
+2026-03-25,Agua 600 ml,62
+2026-03-26,Agua 600 ml,52
+2026-03-27,Agua 600 ml,84
+2026-03-28,Agua 600 ml,33
+2026-03-29,Agua 600 ml,16
+2026-03-30,Agua 600 ml,58
+2026-03-31,Agua 600 ml,75
+2026-04-01,Agua 600 ml,79
+2026-04-02,Agua 600 ml,75
+2026-04-03,Agua 600 ml,63
+2026-04-04,Agua 600 ml,33
+2026-04-05,Agua 600 ml,21
+2026-04-06,Agua 600 ml,76
+2026-04-07,Agua 600 ml,71
+2026-04-08,Agua 600 ml,87
+2026-04-09,Agua 600 ml,71
+2026-04-10,Agua 600 ml,59
+2026-04-11,Agua 600 ml,28
+2026-04-12,Agua 600 ml,22
+2026-04-13,Agua 600 ml,63
+2026-04-14,Agua 600 ml,67
+2026-04-15,Agua 600 ml,72
+2026-04-16,Agua 600 ml,67
+2026-04-17,Agua 600 ml,71
+2026-04-18,Agua 600 ml,30
+2026-04-19,Agua 600 ml,31
+2026-04-20,Agua 600 ml,74
+2026-04-21,Agua 600 ml,73
+2026-04-22,Agua 600 ml,77
+2026-04-23,Agua 600 ml,67
+2026-04-24,Agua 600 ml,65
+2026-04-25,Agua 600 ml,39
+2026-04-26,Agua 600 ml,30
+2026-04-27,Agua 600 ml,64
+2026-04-28,Agua 600 ml,69
+2026-04-29,Agua 600 ml,54
+2026-04-30,Agua 600 ml,51
+2026-05-01,Agua 600 ml,65
+2026-05-02,Agua 600 ml,27
+2026-05-03,Agua 600 ml,37
+2026-05-04,Agua 600 ml,59
+2026-05-05,Agua 600 ml,57
+2026-05-06,Agua 600 ml,76
+2026-05-07,Agua 600 ml,74
+2026-05-08,Agua 600 ml,66
+2026-05-09,Agua 600 ml,30
+2026-05-10,Agua 600 ml,24
+2026-05-11,Agua 600 ml,59
+2026-05-12,Agua 600 ml,66
+2026-05-13,Agua 600 ml,76
+2026-05-14,Agua 600 ml,68
+2026-05-15,Agua 600 ml,49
+2026-05-16,Agua 600 ml,26
+2026-05-17,Agua 600 ml,31
+2026-05-18,Agua 600 ml,55
+2026-05-19,Agua 600 ml,79
+2026-05-20,Agua 600 ml,73
+2026-05-21,Agua 600 ml,76
+2026-05-22,Agua 600 ml,66
+2026-05-23,Agua 600 ml,27
+2026-05-24,Agua 600 ml,30
+2026-05-25,Agua 600 ml,79
+2026-05-26,Agua 600 ml,82
+2026-05-27,Agua 600 ml,79
+2026-05-28,Agua 600 ml,69
+2026-05-29,Agua 600 ml,57
+2026-05-30,Agua 600 ml,39
+2026-05-31,Agua 600 ml,24
+2026-06-01,Agua 600 ml,61
+2026-06-02,Agua 600 ml,84
+2026-06-03,Agua 600 ml,64
+2026-06-04,Agua 600 ml,74
+2026-06-05,Agua 600 ml,68
+2026-06-06,Agua 600 ml,38
+2026-06-07,Agua 600 ml,37
+2026-06-08,Agua 600 ml,75
+2026-06-09,Agua 600 ml,70
+2026-06-10,Agua 600 ml,64
+2026-06-11,Agua 600 ml,75
+2026-06-12,Agua 600 ml,58
+2026-06-13,Agua 600 ml,35
+2026-06-14,Agua 600 ml,35
+2026-06-15,Agua 600 ml,70
+2026-06-16,Agua 600 ml,84
+2026-06-17,Agua 600 ml,50
+2026-06-18,Agua 600 ml,73
+2026-06-19,Agua 600 ml,75
+2026-06-20,Agua 600 ml,18
+2026-06-21,Agua 600 ml,32
+2026-06-22,Agua 600 ml,73
+2026-06-23,Agua 600 ml,67
+2026-06-24,Agua 600 ml,73
+2026-06-25,Agua 600 ml,79
+2026-06-26,Agua 600 ml,79
+2026-06-27,Agua 600 ml,31
+2026-06-28,Agua 600 ml,26
+2026-06-29,Agua 600 ml,60
+2026-06-30,Agua 600 ml,65
+2026-07-01,Agua 600 ml,64
+2026-07-02,Agua 600 ml,58
+2026-07-03,Agua 600 ml,71
+2026-07-04,Agua 600 ml,39
+2026-07-05,Agua 600 ml,23
+2026-07-06,Agua 600 ml,53
+2026-07-07,Agua 600 ml,72
+2026-07-08,Agua 600 ml,67
+2026-07-09,Agua 600 ml,75
+2026-07-10,Agua 600 ml,63
+2026-07-11,Agua 600 ml,25
+2026-07-12,Agua 600 ml,39
+2026-07-13,Agua 600 ml,75
+2026-07-14,Agua 600 ml,73
+2026-07-15,Agua 600 ml,62
+2026-07-16,Agua 600 ml,63
+2026-07-17,Agua 600 ml,77
+2026-07-18,Agua 600 ml,29
+2026-07-19,Agua 600 ml,35
+2026-07-20,Agua 600 ml,70
+2026-07-21,Agua 600 ml,69
+2026-07-22,Agua 600 ml,56
+2026-07-23,Agua 600 ml,62
+2026-07-24,Agua 600 ml,68
+2026-07-25,Agua 600 ml,27
+2026-07-26,Agua 600 ml,22
+2026-07-27,Agua 600 ml,52
+2026-07-28,Agua 600 ml,61
+2026-07-29,Agua 600 ml,66
+2026-07-30,Agua 600 ml,79
+2026-07-31,Agua 600 ml,69
+2026-08-01,Agua 600 ml,27
+2026-08-02,Agua 600 ml,26
+2026-08-03,Agua 600 ml,62
+2026-08-04,Agua 600 ml,74
+2026-08-05,Agua 600 ml,65
+2026-08-06,Agua 600 ml,50
+2026-08-07,Agua 600 ml,74
+2026-08-08,Agua 600 ml,17
+2026-08-09,Agua 600 ml,39
+2026-08-10,Agua 600 ml,60
+2026-08-11,Agua 600 ml,57
+2026-08-12,Agua 600 ml,62
+2026-08-13,Agua 600 ml,71
+2026-08-14,Agua 600 ml,72
+2026-08-15,Agua 600 ml,26
+2026-08-16,Agua 600 ml,29
+2026-08-17,Agua 600 ml,77
+2026-08-18,Agua 600 ml,77
+2026-08-19,Agua 600 ml,61
+2026-08-20,Agua 600 ml,64
+2026-08-21,Agua 600 ml,75
+2026-08-22,Agua 600 ml,34
+2026-08-23,Agua 600 ml,38
+2026-08-24,Agua 600 ml,58
+2026-08-25,Agua 600 ml,74
+2026-08-26,Agua 600 ml,58
+2026-08-27,Agua 600 ml,80
+2026-08-28,Agua 600 ml,72
+2026-08-29,Agua 600 ml,18
+2026-08-30,Agua 600 ml,26
+2026-08-31,Agua 600 ml,78
+2026-09-01,Agua 600 ml,71
+2026-09-02,Agua 600 ml,80
+2026-09-03,Agua 600 ml,72
+2026-09-04,Agua 600 ml,66
+2026-09-05,Agua 600 ml,34
+2026-09-06,Agua 600 ml,29
+2026-09-07,Agua 600 ml,69
+2026-09-08,Agua 600 ml,56
+2026-09-09,Agua 600 ml,66
+2026-09-10,Agua 600 ml,60
+2026-09-11,Agua 600 ml,61
+2026-09-12,Agua 600 ml,28
+2026-09-13,Agua 600 ml,34
+2026-09-14,Agua 600 ml,76
+2026-09-15,Agua 600 ml,57
+2026-09-16,Agua 600 ml,56
+2026-09-17,Agua 600 ml,75
+2026-09-18,Agua 600 ml,66
+2026-09-19,Agua 600 ml,32
+2026-09-20,Agua 600 ml,28
+2026-09-21,Agua 600 ml,85
+2026-09-22,Agua 600 ml,61
+2026-09-23,Agua 600 ml,66
+2026-09-24,Agua 600 ml,60
+2026-09-25,Agua 600 ml,65
+2026-09-26,Agua 600 ml,25
+2026-09-27,Agua 600 ml,26
+2025-09-28,Refresco 600 ml,17
+2025-09-29,Refresco 600 ml,51
+2025-09-30,Refresco 600 ml,35
+2025-10-01,Refresco 600 ml,52
+2025-10-02,Refresco 600 ml,46
+2025-10-03,Refresco 600 ml,39
+2025-10-04,Refresco 600 ml,20
+2025-10-05,Refresco 600 ml,24
+2025-10-06,Refresco 600 ml,44
+2025-10-07,Refresco 600 ml,44
+2025-10-08,Refresco 600 ml,54
+2025-10-09,Refresco 600 ml,48
+2025-10-10,Refresco 600 ml,50
+2025-10-11,Refresco 600 ml,27
+2025-10-12,Refresco 600 ml,32
+2025-10-13,Refresco 600 ml,63
+2025-10-14,Refresco 600 ml,47
+2025-10-15,Refresco 600 ml,45
+2025-10-16,Refresco 600 ml,52
+2025-10-17,Refresco 600 ml,57
+2025-10-18,Refresco 600 ml,29
+2025-10-19,Refresco 600 ml,23
+2025-10-20,Refresco 600 ml,47
+2025-10-21,Refresco 600 ml,59
+2025-10-22,Refresco 600 ml,53
+2025-10-23,Refresco 600 ml,54
+2025-10-24,Refresco 600 ml,43
+2025-10-25,Refresco 600 ml,34
+2025-10-26,Refresco 600 ml,34
+2025-10-27,Refresco 600 ml,54
+2025-10-28,Refresco 600 ml,48
+2025-10-29,Refresco 600 ml,49
+2025-10-30,Refresco 600 ml,53
+2025-10-31,Refresco 600 ml,54
+2025-11-01,Refresco 600 ml,27
+2025-11-02,Refresco 600 ml,21
+2025-11-03,Refresco 600 ml,50
+2025-11-04,Refresco 600 ml,56
+2025-11-05,Refresco 600 ml,60
+2025-11-06,Refresco 600 ml,67
+2025-11-07,Refresco 600 ml,57
+2025-11-08,Refresco 600 ml,14
+2025-11-09,Refresco 600 ml,17
+2025-11-10,Refresco 600 ml,57
+2025-11-11,Refresco 600 ml,67
+2025-11-12,Refresco 600 ml,59
+2025-11-13,Refresco 600 ml,57
+2025-11-14,Refresco 600 ml,53
+2025-11-15,Refresco 600 ml,21
+2025-11-16,Refresco 600 ml,26
+2025-11-17,Refresco 600 ml,65
+2025-11-18,Refresco 600 ml,58
+2025-11-19,Refresco 600 ml,70
+2025-11-20,Refresco 600 ml,60
+2025-11-21,Refresco 600 ml,56
+2025-11-22,Refresco 600 ml,24
+2025-11-23,Refresco 600 ml,22
+2025-11-24,Refresco 600 ml,51
+2025-11-25,Refresco 600 ml,53
+2025-11-26,Refresco 600 ml,43
+2025-11-27,Refresco 600 ml,58
+2025-11-28,Refresco 600 ml,47
+2025-11-29,Refresco 600 ml,30
+2025-11-30,Refresco 600 ml,26
+2025-12-01,Refresco 600 ml,50
+2025-12-02,Refresco 600 ml,50
+2025-12-03,Refresco 600 ml,67
+2025-12-04,Refresco 600 ml,56
+2025-12-05,Refresco 600 ml,72
+2025-12-06,Refresco 600 ml,20
+2025-12-07,Refresco 600 ml,22
+2025-12-08,Refresco 600 ml,65
+2025-12-09,Refresco 600 ml,54
+2025-12-10,Refresco 600 ml,64
+2025-12-11,Refresco 600 ml,56
+2025-12-12,Refresco 600 ml,58
+2025-12-13,Refresco 600 ml,28
+2025-12-14,Refresco 600 ml,24
+2025-12-15,Refresco 600 ml,49
+2025-12-16,Refresco 600 ml,51
+2025-12-17,Refresco 600 ml,58
+2025-12-18,Refresco 600 ml,49
+2025-12-19,Refresco 600 ml,65
+2025-12-20,Refresco 600 ml,18
+2025-12-21,Refresco 600 ml,17
+2025-12-22,Refresco 600 ml,47
+2025-12-23,Refresco 600 ml,46
+2025-12-24,Refresco 600 ml,51
+2025-12-25,Refresco 600 ml,60
+2025-12-26,Refresco 600 ml,64
+2025-12-27,Refresco 600 ml,23
+2025-12-28,Refresco 600 ml,24
+2025-12-29,Refresco 600 ml,44
+2025-12-30,Refresco 600 ml,55
+2025-12-31,Refresco 600 ml,40
+2026-01-01,Refresco 600 ml,53
+2026-01-02,Refresco 600 ml,55
+2026-01-03,Refresco 600 ml,28
+2026-01-04,Refresco 600 ml,24
+2026-01-05,Refresco 600 ml,45
+2026-01-06,Refresco 600 ml,57
+2026-01-07,Refresco 600 ml,40
+2026-01-08,Refresco 600 ml,55
+2026-01-09,Refresco 600 ml,65
+2026-01-10,Refresco 600 ml,19
+2026-01-11,Refresco 600 ml,30
+2026-01-12,Refresco 600 ml,65
+2026-01-13,Refresco 600 ml,55
+2026-01-14,Refresco 600 ml,51
+2026-01-15,Refresco 600 ml,57
+2026-01-16,Refresco 600 ml,56
+2026-01-17,Refresco 600 ml,20
+2026-01-18,Refresco 600 ml,29
+2026-01-19,Refresco 600 ml,45
+2026-01-20,Refresco 600 ml,49
+2026-01-21,Refresco 600 ml,48
+2026-01-22,Refresco 600 ml,56
+2026-01-23,Refresco 600 ml,68
+2026-01-24,Refresco 600 ml,20
+2026-01-25,Refresco 600 ml,22
+2026-01-26,Refresco 600 ml,59
+2026-01-27,Refresco 600 ml,66
+2026-01-28,Refresco 600 ml,60
+2026-01-29,Refresco 600 ml,52
+2026-01-30,Refresco 600 ml,64
+2026-01-31,Refresco 600 ml,26
+2026-02-01,Refresco 600 ml,22
+2026-02-02,Refresco 600 ml,54
+2026-02-03,Refresco 600 ml,62
+2026-02-04,Refresco 600 ml,69
+2026-02-05,Refresco 600 ml,50
+2026-02-06,Refresco 600 ml,58
+2026-02-07,Refresco 600 ml,35
+2026-02-08,Refresco 600 ml,21
+2026-02-09,Refresco 600 ml,51
+2026-02-10,Refresco 600 ml,51
+2026-02-11,Refresco 600 ml,51
+2026-02-12,Refresco 600 ml,50
+2026-02-13,Refresco 600 ml,68
+2026-02-14,Refresco 600 ml,23
+2026-02-15,Refresco 600 ml,23
+2026-02-16,Refresco 600 ml,61
+2026-02-17,Refresco 600 ml,47
+2026-02-18,Refresco 600 ml,48
+2026-02-19,Refresco 600 ml,65
+2026-02-20,Refresco 600 ml,40
+2026-02-21,Refresco 600 ml,23
+2026-02-22,Refresco 600 ml,27
+2026-02-23,Refresco 600 ml,59
+2026-02-24,Refresco 600 ml,57
+2026-02-25,Refresco 600 ml,49
+2026-02-26,Refresco 600 ml,52
+2026-02-27,Refresco 600 ml,69
+2026-02-28,Refresco 600 ml,24
+2026-03-01,Refresco 600 ml,25
+2026-03-02,Refresco 600 ml,73
+2026-03-03,Refresco 600 ml,57
+2026-03-04,Refresco 600 ml,58
+2026-03-05,Refresco 600 ml,59
+2026-03-06,Refresco 600 ml,61
+2026-03-07,Refresco 600 ml,24
+2026-03-08,Refresco 600 ml,18
+2026-03-09,Refresco 600 ml,65
+2026-03-10,Refresco 600 ml,53
+2026-03-11,Refresco 600 ml,66
+2026-03-12,Refresco 600 ml,62
+2026-03-13,Refresco 600 ml,57
+2026-03-14,Refresco 600 ml,27
+2026-03-15,Refresco 600 ml,27
+2026-03-16,Refresco 600 ml,66
+2026-03-17,Refresco 600 ml,60
+2026-03-18,Refresco 600 ml,56
+2026-03-19,Refresco 600 ml,57
+2026-03-20,Refresco 600 ml,55
+2026-03-21,Refresco 600 ml,31
+2026-03-22,Refresco 600 ml,21
+2026-03-23,Refresco 600 ml,71
+2026-03-24,Refresco 600 ml,49
+2026-03-25,Refresco 600 ml,60
+2026-03-26,Refresco 600 ml,59
+2026-03-27,Refresco 600 ml,59
+2026-03-28,Refresco 600 ml,23
+2026-03-29,Refresco 600 ml,33
+2026-03-30,Refresco 600 ml,61
+2026-03-31,Refresco 600 ml,65
+2026-04-01,Refresco 600 ml,65
+2026-04-02,Refresco 600 ml,64
+2026-04-03,Refresco 600 ml,60
+2026-04-04,Refresco 600 ml,22
+2026-04-05,Refresco 600 ml,21
+2026-04-06,Refresco 600 ml,59
+2026-04-07,Refresco 600 ml,88
+2026-04-08,Refresco 600 ml,65
+2026-04-09,Refresco 600 ml,64
+2026-04-10,Refresco 600 ml,60
+2026-04-11,Refresco 600 ml,39
+2026-04-12,Refresco 600 ml,30
+2026-04-13,Refresco 600 ml,74
+2026-04-14,Refresco 600 ml,77
+2026-04-15,Refresco 600 ml,51
+2026-04-16,Refresco 600 ml,70
+2026-04-17,Refresco 600 ml,62
+2026-04-18,Refresco 600 ml,28
+2026-04-19,Refresco 600 ml,26
+2026-04-20,Refresco 600 ml,85
+2026-04-21,Refresco 600 ml,54
+2026-04-22,Refresco 600 ml,84
+2026-04-23,Refresco 600 ml,72
+2026-04-24,Refresco 600 ml,52
+2026-04-25,Refresco 600 ml,28
+2026-04-26,Refresco 600 ml,30
+2026-04-27,Refresco 600 ml,61
+2026-04-28,Refresco 600 ml,59
+2026-04-29,Refresco 600 ml,49
+2026-04-30,Refresco 600 ml,69
+2026-05-01,Refresco 600 ml,77
+2026-05-02,Refresco 600 ml,13
+2026-05-03,Refresco 600 ml,22
+2026-05-04,Refresco 600 ml,56
+2026-05-05,Refresco 600 ml,53
+2026-05-06,Refresco 600 ml,55
+2026-05-07,Refresco 600 ml,76
+2026-05-08,Refresco 600 ml,66
+2026-05-09,Refresco 600 ml,32
+2026-05-10,Refresco 600 ml,25
+2026-05-11,Refresco 600 ml,56
+2026-05-12,Refresco 600 ml,80
+2026-05-13,Refresco 600 ml,70
+2026-05-14,Refresco 600 ml,55
+2026-05-15,Refresco 600 ml,67
+2026-05-16,Refresco 600 ml,26
+2026-05-17,Refresco 600 ml,31
+2026-05-18,Refresco 600 ml,79
+2026-05-19,Refresco 600 ml,52
+2026-05-20,Refresco 600 ml,64
+2026-05-21,Refresco 600 ml,63
+2026-05-22,Refresco 600 ml,62
+2026-05-23,Refresco 600 ml,29
+2026-05-24,Refresco 600 ml,30
+2026-05-25,Refresco 600 ml,76
+2026-05-26,Refresco 600 ml,48
+2026-05-27,Refresco 600 ml,67
+2026-05-28,Refresco 600 ml,62
+2026-05-29,Refresco 600 ml,74
+2026-05-30,Refresco 600 ml,25
+2026-05-31,Refresco 600 ml,26
+2026-06-01,Refresco 600 ml,72
+2026-06-02,Refresco 600 ml,70
+2026-06-03,Refresco 600 ml,57
+2026-06-04,Refresco 600 ml,54
+2026-06-05,Refresco 600 ml,67
+2026-06-06,Refresco 600 ml,36
+2026-06-07,Refresco 600 ml,22
+2026-06-08,Refresco 600 ml,59
+2026-06-09,Refresco 600 ml,76
+2026-06-10,Refresco 600 ml,69
+2026-06-11,Refresco 600 ml,61
+2026-06-12,Refresco 600 ml,55
+2026-06-13,Refresco 600 ml,25
+2026-06-14,Refresco 600 ml,29
+2026-06-15,Refresco 600 ml,50
+2026-06-16,Refresco 600 ml,72
+2026-06-17,Refresco 600 ml,73
+2026-06-18,Refresco 600 ml,73
+2026-06-19,Refresco 600 ml,61
+2026-06-20,Refresco 600 ml,28
+2026-06-21,Refresco 600 ml,24
+2026-06-22,Refresco 600 ml,60
+2026-06-23,Refresco 600 ml,54
+2026-06-24,Refresco 600 ml,60
+2026-06-25,Refresco 600 ml,58
+2026-06-26,Refresco 600 ml,80
+2026-06-27,Refresco 600 ml,31
+2026-06-28,Refresco 600 ml,33
+2026-06-29,Refresco 600 ml,51
+2026-06-30,Refresco 600 ml,65
+2026-07-01,Refresco 600 ml,63
+2026-07-02,Refresco 600 ml,67
+2026-07-03,Refresco 600 ml,54
+2026-07-04,Refresco 600 ml,36
+2026-07-05,Refresco 600 ml,27
+2026-07-06,Refresco 600 ml,68
+2026-07-07,Refresco 600 ml,62
+2026-07-08,Refresco 600 ml,61
+2026-07-09,Refresco 600 ml,58
+2026-07-10,Refresco 600 ml,84
+2026-07-11,Refresco 600 ml,35
+2026-07-12,Refresco 600 ml,23
+2026-07-13,Refresco 600 ml,74
+2026-07-14,Refresco 600 ml,79
+2026-07-15,Refresco 600 ml,70
+2026-07-16,Refresco 600 ml,59
+2026-07-17,Refresco 600 ml,89
+2026-07-18,Refresco 600 ml,28
+2026-07-19,Refresco 600 ml,25
+2026-07-20,Refresco 600 ml,73
+2026-07-21,Refresco 600 ml,76
+2026-07-22,Refresco 600 ml,59
+2026-07-23,Refresco 600 ml,75
+2026-07-24,Refresco 600 ml,64
+2026-07-25,Refresco 600 ml,27
+2026-07-26,Refresco 600 ml,24
+2026-07-27,Refresco 600 ml,66
+2026-07-28,Refresco 600 ml,70
+2026-07-29,Refresco 600 ml,64
+2026-07-30,Refresco 600 ml,60
+2026-07-31,Refresco 600 ml,73
+2026-08-01,Refresco 600 ml,29
+2026-08-02,Refresco 600 ml,23
+2026-08-03,Refresco 600 ml,62
+2026-08-04,Refresco 600 ml,80
+2026-08-05,Refresco 600 ml,61
+2026-08-06,Refresco 600 ml,61
+2026-08-07,Refresco 600 ml,84
+2026-08-08,Refresco 600 ml,28
+2026-08-09,Refresco 600 ml,23
+2026-08-10,Refresco 600 ml,75
+2026-08-11,Refresco 600 ml,81
+2026-08-12,Refresco 600 ml,77
+2026-08-13,Refresco 600 ml,63
+2026-08-14,Refresco 600 ml,74
+2026-08-15,Refresco 600 ml,33
+2026-08-16,Refresco 600 ml,37
+2026-08-17,Refresco 600 ml,74
+2026-08-18,Refresco 600 ml,74
+2026-08-19,Refresco 600 ml,56
+2026-08-20,Refresco 600 ml,68
+2026-08-21,Refresco 600 ml,70
+2026-08-22,Refresco 600 ml,25
+2026-08-23,Refresco 600 ml,33
+2026-08-24,Refresco 600 ml,60
+2026-08-25,Refresco 600 ml,65
+2026-08-26,Refresco 600 ml,55
+2026-08-27,Refresco 600 ml,79
+2026-08-28,Refresco 600 ml,76
+2026-08-29,Refresco 600 ml,26
+2026-08-30,Refresco 600 ml,27
+2026-08-31,Refresco 600 ml,72
+2026-09-01,Refresco 600 ml,74
+2026-09-02,Refresco 600 ml,68
+2026-09-03,Refresco 600 ml,65
+2026-09-04,Refresco 600 ml,86
+2026-09-05,Refresco 600 ml,34
+2026-09-06,Refresco 600 ml,37
+2026-09-07,Refresco 600 ml,81
+2026-09-08,Refresco 600 ml,70
+2026-09-09,Refresco 600 ml,62
+2026-09-10,Refresco 600 ml,74
+2026-09-11,Refresco 600 ml,75
+2026-09-12,Refresco 600 ml,30
+2026-09-13,Refresco 600 ml,32
+2026-09-14,Refresco 600 ml,81
+2026-09-15,Refresco 600 ml,65
+2026-09-16,Refresco 600 ml,65
+2026-09-17,Refresco 600 ml,62
+2026-09-18,Refresco 600 ml,58
+2026-09-19,Refresco 600 ml,23
+2026-09-20,Refresco 600 ml,31
+2026-09-21,Refresco 600 ml,73
+2026-09-22,Refresco 600 ml,73
+2026-09-23,Refresco 600 ml,75
+2026-09-24,Refresco 600 ml,66
+2026-09-25,Refresco 600 ml,61
+2026-09-26,Refresco 600 ml,26
+2026-09-27,Refresco 600 ml,26
+2025-09-28,Papas fritas,15
+2025-09-29,Papas fritas,48
+2025-09-30,Papas fritas,45
+2025-10-01,Papas fritas,34
+2025-10-02,Papas fritas,50
+2025-10-03,Papas fritas,41
+2025-10-04,Papas fritas,18
+2025-10-05,Papas fritas,19
+2025-10-06,Papas fritas,32
+2025-10-07,Papas fritas,44
+2025-10-08,Papas fritas,29
+2025-10-09,Papas fritas,38
+2025-10-10,Papas fritas,35
+2025-10-11,Papas fritas,21
+2025-10-12,Papas fritas,22
+2025-10-13,Papas fritas,45
+2025-10-14,Papas fritas,40
+2025-10-15,Papas fritas,52
+2025-10-16,Papas fritas,41
+2025-10-17,Papas fritas,45
+2025-10-18,Papas fritas,18
+2025-10-19,Papas fritas,25
+2025-10-20,Papas fritas,40
+2025-10-21,Papas fritas,39
+2025-10-22,Papas fritas,34
+2025-10-23,Papas fritas,46
+2025-10-24,Papas fritas,33
+2025-10-25,Papas fritas,15
+2025-10-26,Papas fritas,16
+2025-10-27,Papas fritas,35
+2025-10-28,Papas fritas,40
+2025-10-29,Papas fritas,35
+2025-10-30,Papas fritas,35
+2025-10-31,Papas fritas,43
+2025-11-01,Papas fritas,25
+2025-11-02,Papas fritas,18
+2025-11-03,Papas fritas,36
+2025-11-04,Papas fritas,50
+2025-11-05,Papas fritas,36
+2025-11-06,Papas fritas,41
+2025-11-07,Papas fritas,40
+2025-11-08,Papas fritas,16
+2025-11-09,Papas fritas,15
+2025-11-10,Papas fritas,32
+2025-11-11,Papas fritas,48
+2025-11-12,Papas fritas,35
+2025-11-13,Papas fritas,41
+2025-11-14,Papas fritas,37
+2025-11-15,Papas fritas,19
+2025-11-16,Papas fritas,9
+2025-11-17,Papas fritas,42
+2025-11-18,Papas fritas,48
+2025-11-19,Papas fritas,42
+2025-11-20,Papas fritas,39
+2025-11-21,Papas fritas,50
+2025-11-22,Papas fritas,12
+2025-11-23,Papas fritas,19
+2025-11-24,Papas fritas,40
+2025-11-25,Papas fritas,40
+2025-11-26,Papas fritas,35
+2025-11-27,Papas fritas,37
+2025-11-28,Papas fritas,43
+2025-11-29,Papas fritas,20
+2025-11-30,Papas fritas,17
+2025-12-01,Papas fritas,35
+2025-12-02,Papas fritas,35
+2025-12-03,Papas fritas,39
+2025-12-04,Papas fritas,55
+2025-12-05,Papas fritas,41
+2025-12-06,Papas fritas,23
+2025-12-07,Papas fritas,19
+2025-12-08,Papas fritas,42
+2025-12-09,Papas fritas,45
+2025-12-10,Papas fritas,40
+2025-12-11,Papas fritas,37
+2025-12-12,Papas fritas,45
+2025-12-13,Papas fritas,13
+2025-12-14,Papas fritas,17
+2025-12-15,Papas fritas,45
+2025-12-16,Papas fritas,48
+2025-12-17,Papas fritas,48
+2025-12-18,Papas fritas,42
+2025-12-19,Papas fritas,35
+2025-12-20,Papas fritas,11
+2025-12-21,Papas fritas,15
+2025-12-22,Papas fritas,40
+2025-12-23,Papas fritas,36
+2025-12-24,Papas fritas,48
+2025-12-25,Papas fritas,48
+2025-12-26,Papas fritas,55
+2025-12-27,Papas fritas,12
+2025-12-28,Papas fritas,17
+2025-12-29,Papas fritas,33
+2025-12-30,Papas fritas,26
+2025-12-31,Papas fritas,32
+2026-01-01,Papas fritas,39
+2026-01-02,Papas fritas,36
+2026-01-03,Papas fritas,19
+2026-01-04,Papas fritas,19
+2026-01-05,Papas fritas,39
+2026-01-06,Papas fritas,47
+2026-01-07,Papas fritas,41
+2026-01-08,Papas fritas,37
+2026-01-09,Papas fritas,31
+2026-01-10,Papas fritas,26
+2026-01-11,Papas fritas,19
+2026-01-12,Papas fritas,36
+2026-01-13,Papas fritas,39
+2026-01-14,Papas fritas,32
+2026-01-15,Papas fritas,39
+2026-01-16,Papas fritas,37
+2026-01-17,Papas fritas,12
+2026-01-18,Papas fritas,26
+2026-01-19,Papas fritas,40
+2026-01-20,Papas fritas,39
+2026-01-21,Papas fritas,35
+2026-01-22,Papas fritas,48
+2026-01-23,Papas fritas,36
+2026-01-24,Papas fritas,16
+2026-01-25,Papas fritas,32
+2026-01-26,Papas fritas,36
+2026-01-27,Papas fritas,38
+2026-01-28,Papas fritas,44
+2026-01-29,Papas fritas,44
+2026-01-30,Papas fritas,37
+2026-01-31,Papas fritas,20
+2026-02-01,Papas fritas,16
+2026-02-02,Papas fritas,42
+2026-02-03,Papas fritas,50
+2026-02-04,Papas fritas,32
+2026-02-05,Papas fritas,45
+2026-02-06,Papas fritas,42
+2026-02-07,Papas fritas,15
+2026-02-08,Papas fritas,18
+2026-02-09,Papas fritas,33
+2026-02-10,Papas fritas,36
+2026-02-11,Papas fritas,31
+2026-02-12,Papas fritas,36
+2026-02-13,Papas fritas,36
+2026-02-14,Papas fritas,16
+2026-02-15,Papas fritas,15
+2026-02-16,Papas fritas,30
+2026-02-17,Papas fritas,34
+2026-02-18,Papas fritas,40
+2026-02-19,Papas fritas,37
+2026-02-20,Papas fritas,45
+2026-02-21,Papas fritas,24
+2026-02-22,Papas fritas,15
+2026-02-23,Papas fritas,46
+2026-02-24,Papas fritas,43
+2026-02-25,Papas fritas,42
+2026-02-26,Papas fritas,30
+2026-02-27,Papas fritas,39
+2026-02-28,Papas fritas,17
+2026-03-01,Papas fritas,16
+2026-03-02,Papas fritas,49
+2026-03-03,Papas fritas,50
+2026-03-04,Papas fritas,37
+2026-03-05,Papas fritas,39
+2026-03-06,Papas fritas,40
+2026-03-07,Papas fritas,16
+2026-03-08,Papas fritas,16
+2026-03-09,Papas fritas,47
+2026-03-10,Papas fritas,41
+2026-03-11,Papas fritas,47
+2026-03-12,Papas fritas,36
+2026-03-13,Papas fritas,31
+2026-03-14,Papas fritas,20
+2026-03-15,Papas fritas,19
+2026-03-16,Papas fritas,28
+2026-03-17,Papas fritas,35
+2026-03-18,Papas fritas,50
+2026-03-19,Papas fritas,37
+2026-03-20,Papas fritas,44
+2026-03-21,Papas fritas,12
+2026-03-22,Papas fritas,23
+2026-03-23,Papas fritas,51
+2026-03-24,Papas fritas,54
+2026-03-25,Papas fritas,37
+2026-03-26,Papas fritas,39
+2026-03-27,Papas fritas,50
+2026-03-28,Papas fritas,20
+2026-03-29,Papas fritas,15
+2026-03-30,Papas fritas,32
+2026-03-31,Papas fritas,38
+2026-04-01,Papas fritas,36
+2026-04-02,Papas fritas,38
+2026-04-03,Papas fritas,38
+2026-04-04,Papas fritas,14
+2026-04-05,Papas fritas,16
+2026-04-06,Papas fritas,41
+2026-04-07,Papas fritas,38
+2026-04-08,Papas fritas,50
+2026-04-09,Papas fritas,27
+2026-04-10,Papas fritas,39
+2026-04-11,Papas fritas,18
+2026-04-12,Papas fritas,21
+2026-04-13,Papas fritas,43
+2026-04-14,Papas fritas,45
+2026-04-15,Papas fritas,48
+2026-04-16,Papas fritas,41
+2026-04-17,Papas fritas,48
+2026-04-18,Papas fritas,16
+2026-04-19,Papas fritas,15
+2026-04-20,Papas fritas,34
+2026-04-21,Papas fritas,49
+2026-04-22,Papas fritas,34
+2026-04-23,Papas fritas,42
+2026-04-24,Papas fritas,36
+2026-04-25,Papas fritas,20
+2026-04-26,Papas fritas,17
+2026-04-27,Papas fritas,39
+2026-04-28,Papas fritas,41
+2026-04-29,Papas fritas,42
+2026-04-30,Papas fritas,38
+2026-05-01,Papas fritas,37
+2026-05-02,Papas fritas,13
+2026-05-03,Papas fritas,17
+2026-05-04,Papas fritas,22
+2026-05-05,Papas fritas,38
+2026-05-06,Papas fritas,34
+2026-05-07,Papas fritas,42
+2026-05-08,Papas fritas,42
+2026-05-09,Papas fritas,22
+2026-05-10,Papas fritas,17
+2026-05-11,Papas fritas,48
+2026-05-12,Papas fritas,41
+2026-05-13,Papas fritas,33
+2026-05-14,Papas fritas,45
+2026-05-15,Papas fritas,45
+2026-05-16,Papas fritas,11
+2026-05-17,Papas fritas,14
+2026-05-18,Papas fritas,39
+2026-05-19,Papas fritas,40
+2026-05-20,Papas fritas,47
+2026-05-21,Papas fritas,40
+2026-05-22,Papas fritas,43
+2026-05-23,Papas fritas,14
+2026-05-24,Papas fritas,16
+2026-05-25,Papas fritas,39
+2026-05-26,Papas fritas,36
+2026-05-27,Papas fritas,38
+2026-05-28,Papas fritas,49
+2026-05-29,Papas fritas,32
+2026-05-30,Papas fritas,22
+2026-05-31,Papas fritas,12
+2026-06-01,Papas fritas,45
+2026-06-02,Papas fritas,42
+2026-06-03,Papas fritas,38
+2026-06-04,Papas fritas,35
+2026-06-05,Papas fritas,32
+2026-06-06,Papas fritas,19
+2026-06-07,Papas fritas,22
+2026-06-08,Papas fritas,41
+2026-06-09,Papas fritas,37
+2026-06-10,Papas fritas,39
+2026-06-11,Papas fritas,40
+2026-06-12,Papas fritas,35
+2026-06-13,Papas fritas,12
+2026-06-14,Papas fritas,21
+2026-06-15,Papas fritas,50
+2026-06-16,Papas fritas,28
+2026-06-17,Papas fritas,43
+2026-06-18,Papas fritas,47
+2026-06-19,Papas fritas,42
+2026-06-20,Papas fritas,19
+2026-06-21,Papas fritas,17
+2026-06-22,Papas fritas,34
+2026-06-23,Papas fritas,40
+2026-06-24,Papas fritas,26
+2026-06-25,Papas fritas,42
+2026-06-26,Papas fritas,43
+2026-06-27,Papas fritas,19
+2026-06-28,Papas fritas,19
+2026-06-29,Papas fritas,42
+2026-06-30,Papas fritas,36
+2026-07-01,Papas fritas,49
+2026-07-02,Papas fritas,30
+2026-07-03,Papas fritas,35
+2026-07-04,Papas fritas,22
+2026-07-05,Papas fritas,19
+2026-07-06,Papas fritas,39
+2026-07-07,Papas fritas,45
+2026-07-08,Papas fritas,38
+2026-07-09,Papas fritas,32
+2026-07-10,Papas fritas,38
+2026-07-11,Papas fritas,17
+2026-07-12,Papas fritas,11
+2026-07-13,Papas fritas,47
+2026-07-14,Papas fritas,31
+2026-07-15,Papas fritas,56
+2026-07-16,Papas fritas,49
+2026-07-17,Papas fritas,41
+2026-07-18,Papas fritas,22
+2026-07-19,Papas fritas,14
+2026-07-20,Papas fritas,41
+2026-07-21,Papas fritas,39
+2026-07-22,Papas fritas,31
+2026-07-23,Papas fritas,35
+2026-07-24,Papas fritas,32
+2026-07-25,Papas fritas,18
+2026-07-26,Papas fritas,13
+2026-07-27,Papas fritas,38
+2026-07-28,Papas fritas,51
+2026-07-29,Papas fritas,47
+2026-07-30,Papas fritas,42
+2026-07-31,Papas fritas,44
+2026-08-01,Papas fritas,21
+2026-08-02,Papas fritas,18
+2026-08-03,Papas fritas,37
+2026-08-04,Papas fritas,41
+2026-08-05,Papas fritas,59
+2026-08-06,Papas fritas,37
+2026-08-07,Papas fritas,41
+2026-08-08,Papas fritas,15
+2026-08-09,Papas fritas,17
+2026-08-10,Papas fritas,42
+2026-08-11,Papas fritas,45
+2026-08-12,Papas fritas,42
+2026-08-13,Papas fritas,24
+2026-08-14,Papas fritas,45
+2026-08-15,Papas fritas,18
+2026-08-16,Papas fritas,10
+2026-08-17,Papas fritas,37
+2026-08-18,Papas fritas,39
+2026-08-19,Papas fritas,43
+2026-08-20,Papas fritas,36
+2026-08-21,Papas fritas,30
+2026-08-22,Papas fritas,16
+2026-08-23,Papas fritas,17
+2026-08-24,Papas fritas,42
+2026-08-25,Papas fritas,43
+2026-08-26,Papas fritas,49
+2026-08-27,Papas fritas,40
+2026-08-28,Papas fritas,36
+2026-08-29,Papas fritas,18
+2026-08-30,Papas fritas,18
+2026-08-31,Papas fritas,36
+2026-09-01,Papas fritas,29
+2026-09-02,Papas fritas,49
+2026-09-03,Papas fritas,41
+2026-09-04,Papas fritas,40
+2026-09-05,Papas fritas,22
+2026-09-06,Papas fritas,20
+2026-09-07,Papas fritas,42
+2026-09-08,Papas fritas,36
+2026-09-09,Papas fritas,45
+2026-09-10,Papas fritas,43
+2026-09-11,Papas fritas,47
+2026-09-12,Papas fritas,17
+2026-09-13,Papas fritas,16
+2026-09-14,Papas fritas,31
+2026-09-15,Papas fritas,48
+2026-09-16,Papas fritas,38
+2026-09-17,Papas fritas,40
+2026-09-18,Papas fritas,50
+2026-09-19,Papas fritas,18
+2026-09-20,Papas fritas,19
+2026-09-21,Papas fritas,38
+2026-09-22,Papas fritas,42
+2026-09-23,Papas fritas,40
+2026-09-24,Papas fritas,45
+2026-09-25,Papas fritas,46
+2026-09-26,Papas fritas,12
+2026-09-27,Papas fritas,15
+2025-09-28,Galletas,12
+2025-09-29,Galletas,30
+2025-09-30,Galletas,47
+2025-10-01,Galletas,42
+2025-10-02,Galletas,41
+2025-10-03,Galletas,33
+2025-10-04,Galletas,17
+2025-10-05,Galletas,14
+2025-10-06,Galletas,38
+2025-10-07,Galletas,43
+2025-10-08,Galletas,28
+2025-10-09,Galletas,53
+2025-10-10,Galletas,30
+2025-10-11,Galletas,20
+2025-10-12,Galletas,15
+2025-10-13,Galletas,32
+2025-10-14,Galletas,28
+2025-10-15,Galletas,40
+2025-10-16,Galletas,33
+2025-10-17,Galletas,35
+2025-10-18,Galletas,12
+2025-10-19,Galletas,11
+2025-10-20,Galletas,38
+2025-10-21,Galletas,28
+2025-10-22,Galletas,32
+2025-10-23,Galletas,29
+2025-10-24,Galletas,34
+2025-10-25,Galletas,11
+2025-10-26,Galletas,19
+2025-10-27,Galletas,42
+2025-10-28,Galletas,38
+2025-10-29,Galletas,25
+2025-10-30,Galletas,33
+2025-10-31,Galletas,28
+2025-11-01,Galletas,21
+2025-11-02,Galletas,18
+2025-11-03,Galletas,37
+2025-11-04,Galletas,30
+2025-11-05,Galletas,26
+2025-11-06,Galletas,37
+2025-11-07,Galletas,29
+2025-11-08,Galletas,17
+2025-11-09,Galletas,22
+2025-11-10,Galletas,41
+2025-11-11,Galletas,41
+2025-11-12,Galletas,37
+2025-11-13,Galletas,38
+2025-11-14,Galletas,23
+2025-11-15,Galletas,10
+2025-11-16,Galletas,13
+2025-11-17,Galletas,28
+2025-11-18,Galletas,38
+2025-11-19,Galletas,30
+2025-11-20,Galletas,33
+2025-11-21,Galletas,31
+2025-11-22,Galletas,15
+2025-11-23,Galletas,11
+2025-11-24,Galletas,34
+2025-11-25,Galletas,38
+2025-11-26,Galletas,37
+2025-11-27,Galletas,32
+2025-11-28,Galletas,40
+2025-11-29,Galletas,14
+2025-11-30,Galletas,11
+2025-12-01,Galletas,29
+2025-12-02,Galletas,39
+2025-12-03,Galletas,32
+2025-12-04,Galletas,41
+2025-12-05,Galletas,37
+2025-12-06,Galletas,18
+2025-12-07,Galletas,14
+2025-12-08,Galletas,31
+2025-12-09,Galletas,33
+2025-12-10,Galletas,33
+2025-12-11,Galletas,45
+2025-12-12,Galletas,37
+2025-12-13,Galletas,10
+2025-12-14,Galletas,12
+2025-12-15,Galletas,35
+2025-12-16,Galletas,28
+2025-12-17,Galletas,35
+2025-12-18,Galletas,35
+2025-12-19,Galletas,26
+2025-12-20,Galletas,16
+2025-12-21,Galletas,28
+2025-12-22,Galletas,37
+2025-12-23,Galletas,32
+2025-12-24,Galletas,32
+2025-12-25,Galletas,52
+2025-12-26,Galletas,45
+2025-12-27,Galletas,17
+2025-12-28,Galletas,15
+2025-12-29,Galletas,34
+2025-12-30,Galletas,30
+2025-12-31,Galletas,28
+2026-01-01,Galletas,23
+2026-01-02,Galletas,38
+2026-01-03,Galletas,13
+2026-01-04,Galletas,16
+2026-01-05,Galletas,36
+2026-01-06,Galletas,37
+2026-01-07,Galletas,31
+2026-01-08,Galletas,30
+2026-01-09,Galletas,41
+2026-01-10,Galletas,12
+2026-01-11,Galletas,13
+2026-01-12,Galletas,27
+2026-01-13,Galletas,35
+2026-01-14,Galletas,28
+2026-01-15,Galletas,30
+2026-01-16,Galletas,25
+2026-01-17,Galletas,12
+2026-01-18,Galletas,13
+2026-01-19,Galletas,36
+2026-01-20,Galletas,34
+2026-01-21,Galletas,27
+2026-01-22,Galletas,35
+2026-01-23,Galletas,37
+2026-01-24,Galletas,16
+2026-01-25,Galletas,9
+2026-01-26,Galletas,23
+2026-01-27,Galletas,23
+2026-01-28,Galletas,28
+2026-01-29,Galletas,31
+2026-01-30,Galletas,36
+2026-01-31,Galletas,17
+2026-02-01,Galletas,19
+2026-02-02,Galletas,30
+2026-02-03,Galletas,25
+2026-02-04,Galletas,36
+2026-02-05,Galletas,24
+2026-02-06,Galletas,31
+2026-02-07,Galletas,18
+2026-02-08,Galletas,12
+2026-02-09,Galletas,47
+2026-02-10,Galletas,31
+2026-02-11,Galletas,33
+2026-02-12,Galletas,34
+2026-02-13,Galletas,31
+2026-02-14,Galletas,12
+2026-02-15,Galletas,16
+2026-02-16,Galletas,40
+2026-02-17,Galletas,30
+2026-02-18,Galletas,36
+2026-02-19,Galletas,28
+2026-02-20,Galletas,32
+2026-02-21,Galletas,18
+2026-02-22,Galletas,14
+2026-02-23,Galletas,44
+2026-02-24,Galletas,43
+2026-02-25,Galletas,37
+2026-02-26,Galletas,36
+2026-02-27,Galletas,36
+2026-02-28,Galletas,11
+2026-03-01,Galletas,16
+2026-03-02,Galletas,30
+2026-03-03,Galletas,32
+2026-03-04,Galletas,33
+2026-03-05,Galletas,39
+2026-03-06,Galletas,41
+2026-03-07,Galletas,13
+2026-03-08,Galletas,16
+2026-03-09,Galletas,29
+2026-03-10,Galletas,37
+2026-03-11,Galletas,39
+2026-03-12,Galletas,29
+2026-03-13,Galletas,35
+2026-03-14,Galletas,15
+2026-03-15,Galletas,8
+2026-03-16,Galletas,30
+2026-03-17,Galletas,48
+2026-03-18,Galletas,37
+2026-03-19,Galletas,31
+2026-03-20,Galletas,31
+2026-03-21,Galletas,17
+2026-03-22,Galletas,14
+2026-03-23,Galletas,28
+2026-03-24,Galletas,30
+2026-03-25,Galletas,28
+2026-03-26,Galletas,31
+2026-03-27,Galletas,28
+2026-03-28,Galletas,15
+2026-03-29,Galletas,14
+2026-03-30,Galletas,25
+2026-03-31,Galletas,38
+2026-04-01,Galletas,41
+2026-04-02,Galletas,40
+2026-04-03,Galletas,31
+2026-04-04,Galletas,19
+2026-04-05,Galletas,18
+2026-04-06,Galletas,42
+2026-04-07,Galletas,32
+2026-04-08,Galletas,28
+2026-04-09,Galletas,24
+2026-04-10,Galletas,44
+2026-04-11,Galletas,10
+2026-04-12,Galletas,16
+2026-04-13,Galletas,25
+2026-04-14,Galletas,24
+2026-04-15,Galletas,38
+2026-04-16,Galletas,42
+2026-04-17,Galletas,46
+2026-04-18,Galletas,15
+2026-04-19,Galletas,7
+2026-04-20,Galletas,27
+2026-04-21,Galletas,29
+2026-04-22,Galletas,35
+2026-04-23,Galletas,37
+2026-04-24,Galletas,35
+2026-04-25,Galletas,21
+2026-04-26,Galletas,22
+2026-04-27,Galletas,26
+2026-04-28,Galletas,32
+2026-04-29,Galletas,40
+2026-04-30,Galletas,27
+2026-05-01,Galletas,32
+2026-05-02,Galletas,12
+2026-05-03,Galletas,12
+2026-05-04,Galletas,39
+2026-05-05,Galletas,27
+2026-05-06,Galletas,38
+2026-05-07,Galletas,37
+2026-05-08,Galletas,33
+2026-05-09,Galletas,15
+2026-05-10,Galletas,10
+2026-05-11,Galletas,48
+2026-05-12,Galletas,32
+2026-05-13,Galletas,43
+2026-05-14,Galletas,45
+2026-05-15,Galletas,26
+2026-05-16,Galletas,13
+2026-05-17,Galletas,20
+2026-05-18,Galletas,30
+2026-05-19,Galletas,26
+2026-05-20,Galletas,36
+2026-05-21,Galletas,24
+2026-05-22,Galletas,24
+2026-05-23,Galletas,13
+2026-05-24,Galletas,11
+2026-05-25,Galletas,48
+2026-05-26,Galletas,49
+2026-05-27,Galletas,37
+2026-05-28,Galletas,38
+2026-05-29,Galletas,34
+2026-05-30,Galletas,13
+2026-05-31,Galletas,17
+2026-06-01,Galletas,30
+2026-06-02,Galletas,28
+2026-06-03,Galletas,37
+2026-06-04,Galletas,25
+2026-06-05,Galletas,32
+2026-06-06,Galletas,16
+2026-06-07,Galletas,18
+2026-06-08,Galletas,34
+2026-06-09,Galletas,47
+2026-06-10,Galletas,38
+2026-06-11,Galletas,23
+2026-06-12,Galletas,36
+2026-06-13,Galletas,15
+2026-06-14,Galletas,12
+2026-06-15,Galletas,39
+2026-06-16,Galletas,25
+2026-06-17,Galletas,38
+2026-06-18,Galletas,36
+2026-06-19,Galletas,33
+2026-06-20,Galletas,15
+2026-06-21,Galletas,23
+2026-06-22,Galletas,32
+2026-06-23,Galletas,35
+2026-06-24,Galletas,31
+2026-06-25,Galletas,32
+2026-06-26,Galletas,28
+2026-06-27,Galletas,15
+2026-06-28,Galletas,19
+2026-06-29,Galletas,40
+2026-06-30,Galletas,18
+2026-07-01,Galletas,34
+2026-07-02,Galletas,35
+2026-07-03,Galletas,38
+2026-07-04,Galletas,13
+2026-07-05,Galletas,16
+2026-07-06,Galletas,31
+2026-07-07,Galletas,38
+2026-07-08,Galletas,27
+2026-07-09,Galletas,43
+2026-07-10,Galletas,42
+2026-07-11,Galletas,15
+2026-07-12,Galletas,22
+2026-07-13,Galletas,29
+2026-07-14,Galletas,35
+2026-07-15,Galletas,33
+2026-07-16,Galletas,27
+2026-07-17,Galletas,54
+2026-07-18,Galletas,8
+2026-07-19,Galletas,17
+2026-07-20,Galletas,35
+2026-07-21,Galletas,42
+2026-07-22,Galletas,35
+2026-07-23,Galletas,35
+2026-07-24,Galletas,37
+2026-07-25,Galletas,15
+2026-07-26,Galletas,13
+2026-07-27,Galletas,37
+2026-07-28,Galletas,42
+2026-07-29,Galletas,37
+2026-07-30,Galletas,27
+2026-07-31,Galletas,25
+2026-08-01,Galletas,16
+2026-08-02,Galletas,8
+2026-08-03,Galletas,31
+2026-08-04,Galletas,30
+2026-08-05,Galletas,20
+2026-08-06,Galletas,43
+2026-08-07,Galletas,38
+2026-08-08,Galletas,13
+2026-08-09,Galletas,17
+2026-08-10,Galletas,34
+2026-08-11,Galletas,39
+2026-08-12,Galletas,37
+2026-08-13,Galletas,33
+2026-08-14,Galletas,35
+2026-08-15,Galletas,16
+2026-08-16,Galletas,22
+2026-08-17,Galletas,33
+2026-08-18,Galletas,41
+2026-08-19,Galletas,38
+2026-08-20,Galletas,38
+2026-08-21,Galletas,29
+2026-08-22,Galletas,16
+2026-08-23,Galletas,20
+2026-08-24,Galletas,27
+2026-08-25,Galletas,38
+2026-08-26,Galletas,33
+2026-08-27,Galletas,33
+2026-08-28,Galletas,38
+2026-08-29,Galletas,15
+2026-08-30,Galletas,17
+2026-08-31,Galletas,44
+2026-09-01,Galletas,36
+2026-09-02,Galletas,35
+2026-09-03,Galletas,35
+2026-09-04,Galletas,26
+2026-09-05,Galletas,15
+2026-09-06,Galletas,9
+2026-09-07,Galletas,41
+2026-09-08,Galletas,21
+2026-09-09,Galletas,34
+2026-09-10,Galletas,38
+2026-09-11,Galletas,29
+2026-09-12,Galletas,10
+2026-09-13,Galletas,21
+2026-09-14,Galletas,43
+2026-09-15,Galletas,31
+2026-09-16,Galletas,42
+2026-09-17,Galletas,32
+2026-09-18,Galletas,31
+2026-09-19,Galletas,15
+2026-09-20,Galletas,16
+2026-09-21,Galletas,38
+2026-09-22,Galletas,44
+2026-09-23,Galletas,42
+2026-09-24,Galletas,41
+2026-09-25,Galletas,39
+2026-09-26,Galletas,13
+2026-09-27,Galletas,13
+2025-09-28,Café en vaso,25
+2025-09-29,Café en vaso,51
+2025-09-30,Café en vaso,52
+2025-10-01,Café en vaso,44
+2025-10-02,Café en vaso,57
+2025-10-03,Café en vaso,44
+2025-10-04,Café en vaso,24
+2025-10-05,Café en vaso,25
+2025-10-06,Café en vaso,53
+2025-10-07,Café en vaso,62
+2025-10-08,Café en vaso,42
+2025-10-09,Café en vaso,46
+2025-10-10,Café en vaso,60
+2025-10-11,Café en vaso,15
+2025-10-12,Café en vaso,16
+2025-10-13,Café en vaso,50
+2025-10-14,Café en vaso,49
+2025-10-15,Café en vaso,49
+2025-10-16,Café en vaso,44
+2025-10-17,Café en vaso,49
+2025-10-18,Café en vaso,20
+2025-10-19,Café en vaso,23
+2025-10-20,Café en vaso,57
+2025-10-21,Café en vaso,50
+2025-10-22,Café en vaso,49
+2025-10-23,Café en vaso,49
+2025-10-24,Café en vaso,54
+2025-10-25,Café en vaso,25
+2025-10-26,Café en vaso,17
+2025-10-27,Café en vaso,54
+2025-10-28,Café en vaso,44
+2025-10-29,Café en vaso,42
+2025-10-30,Café en vaso,43
+2025-10-31,Café en vaso,43
+2025-11-01,Café en vaso,18
+2025-11-02,Café en vaso,15
+2025-11-03,Café en vaso,57
+2025-11-04,Café en vaso,58
+2025-11-05,Café en vaso,42
+2025-11-06,Café en vaso,41
+2025-11-07,Café en vaso,45
+2025-11-08,Café en vaso,19
+2025-11-09,Café en vaso,18
+2025-11-10,Café en vaso,44
+2025-11-11,Café en vaso,43
+2025-11-12,Café en vaso,53
+2025-11-13,Café en vaso,46
+2025-11-14,Café en vaso,41
+2025-11-15,Café en vaso,19
+2025-11-16,Café en vaso,22
+2025-11-17,Café en vaso,37
+2025-11-18,Café en vaso,54
+2025-11-19,Café en vaso,44
+2025-11-20,Café en vaso,58
+2025-11-21,Café en vaso,50
+2025-11-22,Café en vaso,12
+2025-11-23,Café en vaso,19
+2025-11-24,Café en vaso,47
+2025-11-25,Café en vaso,58
+2025-11-26,Café en vaso,54
+2025-11-27,Café en vaso,62
+2025-11-28,Café en vaso,52
+2025-11-29,Café en vaso,27
+2025-11-30,Café en vaso,33
+2025-12-01,Café en vaso,53
+2025-12-02,Café en vaso,62
+2025-12-03,Café en vaso,50
+2025-12-04,Café en vaso,44
+2025-12-05,Café en vaso,56
+2025-12-06,Café en vaso,17
+2025-12-07,Café en vaso,27
+2025-12-08,Café en vaso,38
+2025-12-09,Café en vaso,44
+2025-12-10,Café en vaso,45
+2025-12-11,Café en vaso,37
+2025-12-12,Café en vaso,48
+2025-12-13,Café en vaso,21
+2025-12-14,Café en vaso,18
+2025-12-15,Café en vaso,62
+2025-12-16,Café en vaso,38
+2025-12-17,Café en vaso,50
+2025-12-18,Café en vaso,53
+2025-12-19,Café en vaso,53
+2025-12-20,Café en vaso,26
+2025-12-21,Café en vaso,24
+2025-12-22,Café en vaso,38
+2025-12-23,Café en vaso,63
+2025-12-24,Café en vaso,50
+2025-12-25,Café en vaso,68
+2025-12-26,Café en vaso,47
+2025-12-27,Café en vaso,17
+2025-12-28,Café en vaso,23
+2025-12-29,Café en vaso,53
+2025-12-30,Café en vaso,48
+2025-12-31,Café en vaso,46
+2026-01-01,Café en vaso,54
+2026-01-02,Café en vaso,64
+2026-01-03,Café en vaso,23
+2026-01-04,Café en vaso,23
+2026-01-05,Café en vaso,49
+2026-01-06,Café en vaso,49
+2026-01-07,Café en vaso,54
+2026-01-08,Café en vaso,56
+2026-01-09,Café en vaso,51
+2026-01-10,Café en vaso,25
+2026-01-11,Café en vaso,19
+2026-01-12,Café en vaso,64
+2026-01-13,Café en vaso,50
+2026-01-14,Café en vaso,49
+2026-01-15,Café en vaso,46
+2026-01-16,Café en vaso,55
+2026-01-17,Café en vaso,27
+2026-01-18,Café en vaso,25
+2026-01-19,Café en vaso,54
+2026-01-20,Café en vaso,69
+2026-01-21,Café en vaso,56
+2026-01-22,Café en vaso,45
+2026-01-23,Café en vaso,50
+2026-01-24,Café en vaso,20
+2026-01-25,Café en vaso,24
+2026-01-26,Café en vaso,58
+2026-01-27,Café en vaso,56
+2026-01-28,Café en vaso,51
+2026-01-29,Café en vaso,55
+2026-01-30,Café en vaso,67
+2026-01-31,Café en vaso,23
+2026-02-01,Café en vaso,24
+2026-02-02,Café en vaso,49
+2026-02-03,Café en vaso,41
+2026-02-04,Café en vaso,56
+2026-02-05,Café en vaso,76
+2026-02-06,Café en vaso,65
+2026-02-07,Café en vaso,17
+2026-02-08,Café en vaso,23
+2026-02-09,Café en vaso,65
+2026-02-10,Café en vaso,48
+2026-02-11,Café en vaso,43
+2026-02-12,Café en vaso,43
+2026-02-13,Café en vaso,57
+2026-02-14,Café en vaso,21
+2026-02-15,Café en vaso,23
+2026-02-16,Café en vaso,52
+2026-02-17,Café en vaso,62
+2026-02-18,Café en vaso,50
+2026-02-19,Café en vaso,53
+2026-02-20,Café en vaso,56
+2026-02-21,Café en vaso,18
+2026-02-22,Café en vaso,23
+2026-02-23,Café en vaso,53
+2026-02-24,Café en vaso,53
+2026-02-25,Café en vaso,53
+2026-02-26,Café en vaso,49
+2026-02-27,Café en vaso,53
+2026-02-28,Café en vaso,14
+2026-03-01,Café en vaso,18
+2026-03-02,Café en vaso,46
+2026-03-03,Café en vaso,63
+2026-03-04,Café en vaso,51
+2026-03-05,Café en vaso,68
+2026-03-06,Café en vaso,39
+2026-03-07,Café en vaso,16
+2026-03-08,Café en vaso,20
+2026-03-09,Café en vaso,57
+2026-03-10,Café en vaso,50
+2026-03-11,Café en vaso,53
+2026-03-12,Café en vaso,52
+2026-03-13,Café en vaso,70
+2026-03-14,Café en vaso,23
+2026-03-15,Café en vaso,15
+2026-03-16,Café en vaso,38
+2026-03-17,Café en vaso,53
+2026-03-18,Café en vaso,41
+2026-03-19,Café en vaso,55
+2026-03-20,Café en vaso,51
+2026-03-21,Café en vaso,19
+2026-03-22,Café en vaso,15
+2026-03-23,Café en vaso,48
+2026-03-24,Café en vaso,42
+2026-03-25,Café en vaso,50
+2026-03-26,Café en vaso,59
+2026-03-27,Café en vaso,63
+2026-03-28,Café en vaso,24
+2026-03-29,Café en vaso,23
+2026-03-30,Café en vaso,46
+2026-03-31,Café en vaso,49
+2026-04-01,Café en vaso,68
+2026-04-02,Café en vaso,56
+2026-04-03,Café en vaso,48
+2026-04-04,Café en vaso,16
+2026-04-05,Café en vaso,19
+2026-04-06,Café en vaso,50
+2026-04-07,Café en vaso,58
+2026-04-08,Café en vaso,54
+2026-04-09,Café en vaso,55
+2026-04-10,Café en vaso,58
+2026-04-11,Café en vaso,17
+2026-04-12,Café en vaso,21
+2026-04-13,Café en vaso,52
+2026-04-14,Café en vaso,53
+2026-04-15,Café en vaso,54
+2026-04-16,Café en vaso,49
+2026-04-17,Café en vaso,52
+2026-04-18,Café en vaso,35
+2026-04-19,Café en vaso,25
+2026-04-20,Café en vaso,53
+2026-04-21,Café en vaso,47
+2026-04-22,Café en vaso,45
+2026-04-23,Café en vaso,50
+2026-04-24,Café en vaso,67
+2026-04-25,Café en vaso,22
+2026-04-26,Café en vaso,23
+2026-04-27,Café en vaso,59
+2026-04-28,Café en vaso,47
+2026-04-29,Café en vaso,52
+2026-04-30,Café en vaso,61
+2026-05-01,Café en vaso,56
+2026-05-02,Café en vaso,25
+2026-05-03,Café en vaso,15
+2026-05-04,Café en vaso,44
+2026-05-05,Café en vaso,64
+2026-05-06,Café en vaso,49
+2026-05-07,Café en vaso,58
+2026-05-08,Café en vaso,51
+2026-05-09,Café en vaso,25
+2026-05-10,Café en vaso,32
+2026-05-11,Café en vaso,61
+2026-05-12,Café en vaso,68
+2026-05-13,Café en vaso,52
+2026-05-14,Café en vaso,62
+2026-05-15,Café en vaso,62
+2026-05-16,Café en vaso,26
+2026-05-17,Café en vaso,22
+2026-05-18,Café en vaso,73
+2026-05-19,Café en vaso,67
+2026-05-20,Café en vaso,57
+2026-05-21,Café en vaso,62
+2026-05-22,Café en vaso,55
+2026-05-23,Café en vaso,25
+2026-05-24,Café en vaso,25
+2026-05-25,Café en vaso,61
+2026-05-26,Café en vaso,54
+2026-05-27,Café en vaso,56
+2026-05-28,Café en vaso,55
+2026-05-29,Café en vaso,51
+2026-05-30,Café en vaso,24
+2026-05-31,Café en vaso,26
+2026-06-01,Café en vaso,69
+2026-06-02,Café en vaso,56
+2026-06-03,Café en vaso,57
+2026-06-04,Café en vaso,66
+2026-06-05,Café en vaso,60
+2026-06-06,Café en vaso,25
+2026-06-07,Café en vaso,29
+2026-06-08,Café en vaso,62
+2026-06-09,Café en vaso,62
+2026-06-10,Café en vaso,70
+2026-06-11,Café en vaso,46
+2026-06-12,Café en vaso,43
+2026-06-13,Café en vaso,26
+2026-06-14,Café en vaso,21
+2026-06-15,Café en vaso,47
+2026-06-16,Café en vaso,49
+2026-06-17,Café en vaso,50
+2026-06-18,Café en vaso,46
+2026-06-19,Café en vaso,63
+2026-06-20,Café en vaso,20
+2026-06-21,Café en vaso,24
+2026-06-22,Café en vaso,62
+2026-06-23,Café en vaso,57
+2026-06-24,Café en vaso,59
+2026-06-25,Café en vaso,62
+2026-06-26,Café en vaso,50
+2026-06-27,Café en vaso,23
+2026-06-28,Café en vaso,21
+2026-06-29,Café en vaso,60
+2026-06-30,Café en vaso,59
+2026-07-01,Café en vaso,86
+2026-07-02,Café en vaso,64
+2026-07-03,Café en vaso,44
+2026-07-04,Café en vaso,24
+2026-07-05,Café en vaso,26
+2026-07-06,Café en vaso,65
+2026-07-07,Café en vaso,58
+2026-07-08,Café en vaso,64
+2026-07-09,Café en vaso,68
+2026-07-10,Café en vaso,51
+2026-07-11,Café en vaso,23
+2026-07-12,Café en vaso,20
+2026-07-13,Café en vaso,68
+2026-07-14,Café en vaso,77
+2026-07-15,Café en vaso,54
+2026-07-16,Café en vaso,63
+2026-07-17,Café en vaso,57
+2026-07-18,Café en vaso,30
+2026-07-19,Café en vaso,21
+2026-07-20,Café en vaso,57
+2026-07-21,Café en vaso,54
+2026-07-22,Café en vaso,62
+2026-07-23,Café en vaso,71
+2026-07-24,Café en vaso,72
+2026-07-25,Café en vaso,17
+2026-07-26,Café en vaso,17
+2026-07-27,Café en vaso,67
+2026-07-28,Café en vaso,58
+2026-07-29,Café en vaso,60
+2026-07-30,Café en vaso,59
+2026-07-31,Café en vaso,61
+2026-08-01,Café en vaso,36
+2026-08-02,Café en vaso,26
+2026-08-03,Café en vaso,54
+2026-08-04,Café en vaso,75
+2026-08-05,Café en vaso,69
+2026-08-06,Café en vaso,68
+2026-08-07,Café en vaso,62
+2026-08-08,Café en vaso,21
+2026-08-09,Café en vaso,16
+2026-08-10,Café en vaso,45
+2026-08-11,Café en vaso,69
+2026-08-12,Café en vaso,60
+2026-08-13,Café en vaso,50
+2026-08-14,Café en vaso,62
+2026-08-15,Café en vaso,26
+2026-08-16,Café en vaso,21
+2026-08-17,Café en vaso,64
+2026-08-18,Café en vaso,72
+2026-08-19,Café en vaso,78
+2026-08-20,Café en vaso,60
+2026-08-21,Café en vaso,54
+2026-08-22,Café en vaso,30
+2026-08-23,Café en vaso,26
+2026-08-24,Café en vaso,51
+2026-08-25,Café en vaso,55
+2026-08-26,Café en vaso,61
+2026-08-27,Café en vaso,63
+2026-08-28,Café en vaso,66
+2026-08-29,Café en vaso,34
+2026-08-30,Café en vaso,27
+2026-08-31,Café en vaso,54
+2026-09-01,Café en vaso,56
+2026-09-02,Café en vaso,66
+2026-09-03,Café en vaso,53
+2026-09-04,Café en vaso,61
+2026-09-05,Café en vaso,24
+2026-09-06,Café en vaso,21
+2026-09-07,Café en vaso,52
+2026-09-08,Café en vaso,69
+2026-09-09,Café en vaso,61
+2026-09-10,Café en vaso,75
+2026-09-11,Café en vaso,72
+2026-09-12,Café en vaso,25
+2026-09-13,Café en vaso,31
+2026-09-14,Café en vaso,56
+2026-09-15,Café en vaso,62
+2026-09-16,Café en vaso,57
+2026-09-17,Café en vaso,64
+2026-09-18,Café en vaso,64
+2026-09-19,Café en vaso,21
+2026-09-20,Café en vaso,22
+2026-09-21,Café en vaso,57
+2026-09-22,Café en vaso,71
+2026-09-23,Café en vaso,64
+2026-09-24,Café en vaso,71
+2026-09-25,Café en vaso,57
+2026-09-26,Café en vaso,14
+2026-09-27,Café en vaso,19
+2025-09-28,Sándwich,11
+2025-09-29,Sándwich,30
+2025-09-30,Sándwich,31
+2025-10-01,Sándwich,29
+2025-10-02,Sándwich,22
+2025-10-03,Sándwich,27
+2025-10-04,Sándwich,11
+2025-10-05,Sándwich,9
+2025-10-06,Sándwich,23
+2025-10-07,Sándwich,37
+2025-10-08,Sándwich,31
+2025-10-09,Sándwich,29
+2025-10-10,Sándwich,29
+2025-10-11,Sándwich,12
+2025-10-12,Sándwich,16
+2025-10-13,Sándwich,36
+2025-10-14,Sándwich,33
+2025-10-15,Sándwich,25
+2025-10-16,Sándwich,29
+2025-10-17,Sándwich,25
+2025-10-18,Sándwich,12
+2025-10-19,Sándwich,14
+2025-10-20,Sándwich,22
+2025-10-21,Sándwich,27
+2025-10-22,Sándwich,33
+2025-10-23,Sándwich,30
+2025-10-24,Sándwich,36
+2025-10-25,Sándwich,7
+2025-10-26,Sándwich,12
+2025-10-27,Sándwich,33
+2025-10-28,Sándwich,20
+2025-10-29,Sándwich,33
+2025-10-30,Sándwich,33
+2025-10-31,Sándwich,32
+2025-11-01,Sándwich,9
+2025-11-02,Sándwich,16
+2025-11-03,Sándwich,31
+2025-11-04,Sándwich,29
+2025-11-05,Sándwich,31
+2025-11-06,Sándwich,22
+2025-11-07,Sándwich,17
+2025-11-08,Sándwich,11
+2025-11-09,Sándwich,15
+2025-11-10,Sándwich,19
+2025-11-11,Sándwich,24
+2025-11-12,Sándwich,33
+2025-11-13,Sándwich,25
+2025-11-14,Sándwich,22
+2025-11-15,Sándwich,15
+2025-11-16,Sándwich,13
+2025-11-17,Sándwich,25
+2025-11-18,Sándwich,23
+2025-11-19,Sándwich,35
+2025-11-20,Sándwich,34
+2025-11-21,Sándwich,29
+2025-11-22,Sándwich,14
+2025-11-23,Sándwich,14
+2025-11-24,Sándwich,29
+2025-11-25,Sándwich,31
+2025-11-26,Sándwich,24
+2025-11-27,Sándwich,33
+2025-11-28,Sándwich,28
+2025-11-29,Sándwich,11
+2025-11-30,Sándwich,15
+2025-12-01,Sándwich,35
+2025-12-02,Sándwich,36
+2025-12-03,Sándwich,32
+2025-12-04,Sándwich,26
+2025-12-05,Sándwich,22
+2025-12-06,Sándwich,12
+2025-12-07,Sándwich,7
+2025-12-08,Sándwich,35
+2025-12-09,Sándwich,23
+2025-12-10,Sándwich,25
+2025-12-11,Sándwich,26
+2025-12-12,Sándwich,31
+2025-12-13,Sándwich,11
+2025-12-14,Sándwich,9
+2025-12-15,Sándwich,23
+2025-12-16,Sándwich,28
+2025-12-17,Sándwich,38
+2025-12-18,Sándwich,26
+2025-12-19,Sándwich,21
+2025-12-20,Sándwich,12
+2025-12-21,Sándwich,17
+2025-12-22,Sándwich,30
+2025-12-23,Sándwich,28
+2025-12-24,Sándwich,30
+2025-12-25,Sándwich,34
+2025-12-26,Sándwich,36
+2025-12-27,Sándwich,8
+2025-12-28,Sándwich,14
+2025-12-29,Sándwich,21
+2025-12-30,Sándwich,40
+2025-12-31,Sándwich,33
+2026-01-01,Sándwich,25
+2026-01-02,Sándwich,35
+2026-01-03,Sándwich,12
+2026-01-04,Sándwich,11
+2026-01-05,Sándwich,27
+2026-01-06,Sándwich,29
+2026-01-07,Sándwich,26
+2026-01-08,Sándwich,22
+2026-01-09,Sándwich,20
+2026-01-10,Sándwich,8
+2026-01-11,Sándwich,16
+2026-01-12,Sándwich,30
+2026-01-13,Sándwich,30
+2026-01-14,Sándwich,26
+2026-01-15,Sándwich,29
+2026-01-16,Sándwich,28
+2026-01-17,Sándwich,10
+2026-01-18,Sándwich,6
+2026-01-19,Sándwich,34
+2026-01-20,Sándwich,30
+2026-01-21,Sándwich,26
+2026-01-22,Sándwich,26
+2026-01-23,Sándwich,37
+2026-01-24,Sándwich,14
+2026-01-25,Sándwich,8
+2026-01-26,Sándwich,24
+2026-01-27,Sándwich,33
+2026-01-28,Sándwich,19
+2026-01-29,Sándwich,28
+2026-01-30,Sándwich,36
+2026-01-31,Sándwich,9
+2026-02-01,Sándwich,11
+2026-02-02,Sándwich,38
+2026-02-03,Sándwich,29
+2026-02-04,Sándwich,38
+2026-02-05,Sándwich,28
+2026-02-06,Sándwich,31
+2026-02-07,Sándwich,9
+2026-02-08,Sándwich,14
+2026-02-09,Sándwich,28
+2026-02-10,Sándwich,25
+2026-02-11,Sándwich,38
+2026-02-12,Sándwich,26
+2026-02-13,Sándwich,22
+2026-02-14,Sándwich,12
+2026-02-15,Sándwich,10
+2026-02-16,Sándwich,23
+2026-02-17,Sándwich,35
+2026-02-18,Sándwich,28
+2026-02-19,Sándwich,34
+2026-02-20,Sándwich,27
+2026-02-21,Sándwich,12
+2026-02-22,Sándwich,13
+2026-02-23,Sándwich,29
+2026-02-24,Sándwich,28
+2026-02-25,Sándwich,24
+2026-02-26,Sándwich,29
+2026-02-27,Sándwich,32
+2026-02-28,Sándwich,14
+2026-03-01,Sándwich,11
+2026-03-02,Sándwich,23
+2026-03-03,Sándwich,30
+2026-03-04,Sándwich,32
+2026-03-05,Sándwich,26
+2026-03-06,Sándwich,19
+2026-03-07,Sándwich,8
+2026-03-08,Sándwich,17
+2026-03-09,Sándwich,25
+2026-03-10,Sándwich,27
+2026-03-11,Sándwich,22
+2026-03-12,Sándwich,22
+2026-03-13,Sándwich,23
+2026-03-14,Sándwich,16
+2026-03-15,Sándwich,12
+2026-03-16,Sándwich,29
+2026-03-17,Sándwich,25
+2026-03-18,Sándwich,31
+2026-03-19,Sándwich,25
+2026-03-20,Sándwich,28
+2026-03-21,Sándwich,12
+2026-03-22,Sándwich,15
+2026-03-23,Sándwich,29
+2026-03-24,Sándwich,24
+2026-03-25,Sándwich,27
+2026-03-26,Sándwich,22
+2026-03-27,Sándwich,30
+2026-03-28,Sándwich,9
+2026-03-29,Sándwich,12
+2026-03-30,Sándwich,32
+2026-03-31,Sándwich,24
+2026-04-01,Sándwich,36
+2026-04-02,Sándwich,29
+2026-04-03,Sándwich,32
+2026-04-04,Sándwich,17
+2026-04-05,Sándwich,14
+2026-04-06,Sándwich,21
+2026-04-07,Sándwich,27
+2026-04-08,Sándwich,26
+2026-04-09,Sándwich,33
+2026-04-10,Sándwich,38
+2026-04-11,Sándwich,11
+2026-04-12,Sándwich,10
+2026-04-13,Sándwich,28
+2026-04-14,Sándwich,24
+2026-04-15,Sándwich,32
+2026-04-16,Sándwich,33
+2026-04-17,Sándwich,34
+2026-04-18,Sándwich,14
+2026-04-19,Sándwich,11
+2026-04-20,Sándwich,31
+2026-04-21,Sándwich,35
+2026-04-22,Sándwich,29
+2026-04-23,Sándwich,30
+2026-04-24,Sándwich,31
+2026-04-25,Sándwich,9
+2026-04-26,Sándwich,9
+2026-04-27,Sándwich,35
+2026-04-28,Sándwich,26
+2026-04-29,Sándwich,22
+2026-04-30,Sándwich,28
+2026-05-01,Sándwich,24
+2026-05-02,Sándwich,11
+2026-05-03,Sándwich,14
+2026-05-04,Sándwich,26
+2026-05-05,Sándwich,30
+2026-05-06,Sándwich,28
+2026-05-07,Sándwich,37
+2026-05-08,Sándwich,26
+2026-05-09,Sándwich,10
+2026-05-10,Sándwich,14
+2026-05-11,Sándwich,38
+2026-05-12,Sándwich,32
+2026-05-13,Sándwich,30
+2026-05-14,Sándwich,23
+2026-05-15,Sándwich,26
+2026-05-16,Sándwich,9
+2026-05-17,Sándwich,15
+2026-05-18,Sándwich,16
+2026-05-19,Sándwich,33
+2026-05-20,Sándwich,32
+2026-05-21,Sándwich,24
+2026-05-22,Sándwich,24
+2026-05-23,Sándwich,9
+2026-05-24,Sándwich,12
+2026-05-25,Sándwich,30
+2026-05-26,Sándwich,36
+2026-05-27,Sándwich,31
+2026-05-28,Sándwich,28
+2026-05-29,Sándwich,30
+2026-05-30,Sándwich,14
+2026-05-31,Sándwich,18
+2026-06-01,Sándwich,36
+2026-06-02,Sándwich,24
+2026-06-03,Sándwich,26
+2026-06-04,Sándwich,24
+2026-06-05,Sándwich,24
+2026-06-06,Sándwich,13
+2026-06-07,Sándwich,16
+2026-06-08,Sándwich,29
+2026-06-09,Sándwich,30
+2026-06-10,Sándwich,23
+2026-06-11,Sándwich,25
+2026-06-12,Sándwich,38
+2026-06-13,Sándwich,14
+2026-06-14,Sándwich,10
+2026-06-15,Sándwich,25
+2026-06-16,Sándwich,28
+2026-06-17,Sándwich,28
+2026-06-18,Sándwich,26
+2026-06-19,Sándwich,23
+2026-06-20,Sándwich,12
+2026-06-21,Sándwich,19
+2026-06-22,Sándwich,34
+2026-06-23,Sándwich,39
+2026-06-24,Sándwich,27
+2026-06-25,Sándwich,26
+2026-06-26,Sándwich,32
+2026-06-27,Sándwich,13
+2026-06-28,Sándwich,16
+2026-06-29,Sándwich,23
+2026-06-30,Sándwich,29
+2026-07-01,Sándwich,23
+2026-07-02,Sándwich,30
+2026-07-03,Sándwich,17
+2026-07-04,Sándwich,14
+2026-07-05,Sándwich,12
+2026-07-06,Sándwich,30
+2026-07-07,Sándwich,28
+2026-07-08,Sándwich,25
+2026-07-09,Sándwich,24
+2026-07-10,Sándwich,36
+2026-07-11,Sándwich,5
+2026-07-12,Sándwich,14
+2026-07-13,Sándwich,26
+2026-07-14,Sándwich,26
+2026-07-15,Sándwich,37
+2026-07-16,Sándwich,37
+2026-07-17,Sándwich,31
+2026-07-18,Sándwich,12
+2026-07-19,Sándwich,6
+2026-07-20,Sándwich,26
+2026-07-21,Sándwich,28
+2026-07-22,Sándwich,21
+2026-07-23,Sándwich,31
+2026-07-24,Sándwich,27
+2026-07-25,Sándwich,8
+2026-07-26,Sándwich,15
+2026-07-27,Sándwich,35
+2026-07-28,Sándwich,23
+2026-07-29,Sándwich,23
+2026-07-30,Sándwich,29
+2026-07-31,Sándwich,31
+2026-08-01,Sándwich,18
+2026-08-02,Sándwich,14
+2026-08-03,Sándwich,21
+2026-08-04,Sándwich,28
+2026-08-05,Sándwich,33
+2026-08-06,Sándwich,25
+2026-08-07,Sándwich,23
+2026-08-08,Sándwich,8
+2026-08-09,Sándwich,6
+2026-08-10,Sándwich,28
+2026-08-11,Sándwich,27
+2026-08-12,Sándwich,27
+2026-08-13,Sándwich,25
+2026-08-14,Sándwich,21
+2026-08-15,Sándwich,7
+2026-08-16,Sándwich,12
+2026-08-17,Sándwich,22
+2026-08-18,Sándwich,23
+2026-08-19,Sándwich,27
+2026-08-20,Sándwich,32
+2026-08-21,Sándwich,23
+2026-08-22,Sándwich,12
+2026-08-23,Sándwich,8
+2026-08-24,Sándwich,25
+2026-08-25,Sándwich,28
+2026-08-26,Sándwich,29
+2026-08-27,Sándwich,21
+2026-08-28,Sándwich,28
+2026-08-29,Sándwich,10
+2026-08-30,Sándwich,14
+2026-08-31,Sándwich,28
+2026-09-01,Sándwich,31
+2026-09-02,Sándwich,27
+2026-09-03,Sándwich,26
+2026-09-04,Sándwich,38
+2026-09-05,Sándwich,11
+2026-09-06,Sándwich,13
+2026-09-07,Sándwich,23
+2026-09-08,Sándwich,42
+2026-09-09,Sándwich,23
+2026-09-10,Sándwich,34
+2026-09-11,Sándwich,26
+2026-09-12,Sándwich,11
+2026-09-13,Sándwich,17
+2026-09-14,Sándwich,33
+2026-09-15,Sándwich,25
+2026-09-16,Sándwich,30
+2026-09-17,Sándwich,32
+2026-09-18,Sándwich,23
+2026-09-19,Sándwich,12
+2026-09-20,Sándwich,11
+2026-09-21,Sándwich,26
+2026-09-22,Sándwich,27
+2026-09-23,Sándwich,20
+2026-09-24,Sándwich,36
+2026-09-25,Sándwich,22
+2026-09-26,Sándwich,12
+2026-09-27,Sándwich,15
+2025-09-28,Cuaderno,9
+2025-09-29,Cuaderno,27
+2025-09-30,Cuaderno,18
+2025-10-01,Cuaderno,24
+2025-10-02,Cuaderno,23
+2025-10-03,Cuaderno,28
+2025-10-04,Cuaderno,14
+2025-10-05,Cuaderno,9
+2025-10-06,Cuaderno,24
+2025-10-07,Cuaderno,26
+2025-10-08,Cuaderno,23
+2025-10-09,Cuaderno,16
+2025-10-10,Cuaderno,25
+2025-10-11,Cuaderno,11
+2025-10-12,Cuaderno,7
+2025-10-13,Cuaderno,15
+2025-10-14,Cuaderno,25
+2025-10-15,Cuaderno,25
+2025-10-16,Cuaderno,16
+2025-10-17,Cuaderno,20
+2025-10-18,Cuaderno,6
+2025-10-19,Cuaderno,15
+2025-10-20,Cuaderno,15
+2025-10-21,Cuaderno,25
+2025-10-22,Cuaderno,32
+2025-10-23,Cuaderno,26
+2025-10-24,Cuaderno,21
+2025-10-25,Cuaderno,6
+2025-10-26,Cuaderno,5
+2025-10-27,Cuaderno,24
+2025-10-28,Cuaderno,25
+2025-10-29,Cuaderno,15
+2025-10-30,Cuaderno,14
+2025-10-31,Cuaderno,16
+2025-11-01,Cuaderno,6
+2025-11-02,Cuaderno,11
+2025-11-03,Cuaderno,26
+2025-11-04,Cuaderno,33
+2025-11-05,Cuaderno,16
+2025-11-06,Cuaderno,14
+2025-11-07,Cuaderno,27
+2025-11-08,Cuaderno,8
+2025-11-09,Cuaderno,8
+2025-11-10,Cuaderno,18
+2025-11-11,Cuaderno,18
+2025-11-12,Cuaderno,31
+2025-11-13,Cuaderno,18
+2025-11-14,Cuaderno,21
+2025-11-15,Cuaderno,5
+2025-11-16,Cuaderno,11
+2025-11-17,Cuaderno,19
+2025-11-18,Cuaderno,18
+2025-11-19,Cuaderno,23
+2025-11-20,Cuaderno,29
+2025-11-21,Cuaderno,14
+2025-11-22,Cuaderno,7
+2025-11-23,Cuaderno,15
+2025-11-24,Cuaderno,20
+2025-11-25,Cuaderno,20
+2025-11-26,Cuaderno,22
+2025-11-27,Cuaderno,22
+2025-11-28,Cuaderno,28
+2025-11-29,Cuaderno,9
+2025-11-30,Cuaderno,8
+2025-12-01,Cuaderno,26
+2025-12-02,Cuaderno,12
+2025-12-03,Cuaderno,18
+2025-12-04,Cuaderno,22
+2025-12-05,Cuaderno,22
+2025-12-06,Cuaderno,6
+2025-12-07,Cuaderno,7
+2025-12-08,Cuaderno,25
+2025-12-09,Cuaderno,22
+2025-12-10,Cuaderno,22
+2025-12-11,Cuaderno,20
+2025-12-12,Cuaderno,27
+2025-12-13,Cuaderno,9
+2025-12-14,Cuaderno,12
+2025-12-15,Cuaderno,28
+2025-12-16,Cuaderno,22
+2025-12-17,Cuaderno,19
+2025-12-18,Cuaderno,19
+2025-12-19,Cuaderno,22
+2025-12-20,Cuaderno,5
+2025-12-21,Cuaderno,8
+2025-12-22,Cuaderno,26
+2025-12-23,Cuaderno,12
+2025-12-24,Cuaderno,21
+2025-12-25,Cuaderno,25
+2025-12-26,Cuaderno,14
+2025-12-27,Cuaderno,6
+2025-12-28,Cuaderno,16
+2025-12-29,Cuaderno,24
+2025-12-30,Cuaderno,23
+2025-12-31,Cuaderno,24
+2026-01-01,Cuaderno,13
+2026-01-02,Cuaderno,15
+2026-01-03,Cuaderno,8
+2026-01-04,Cuaderno,8
+2026-01-05,Cuaderno,24
+2026-01-06,Cuaderno,24
+2026-01-07,Cuaderno,20
+2026-01-08,Cuaderno,17
+2026-01-09,Cuaderno,25
+2026-01-10,Cuaderno,12
+2026-01-11,Cuaderno,10
+2026-01-12,Cuaderno,21
+2026-01-13,Cuaderno,18
+2026-01-14,Cuaderno,19
+2026-01-15,Cuaderno,23
+2026-01-16,Cuaderno,24
+2026-01-17,Cuaderno,10
+2026-01-18,Cuaderno,8
+2026-01-19,Cuaderno,20
+2026-01-20,Cuaderno,30
+2026-01-21,Cuaderno,14
+2026-01-22,Cuaderno,22
+2026-01-23,Cuaderno,21
+2026-01-24,Cuaderno,9
+2026-01-25,Cuaderno,7
+2026-01-26,Cuaderno,24
+2026-01-27,Cuaderno,18
+2026-01-28,Cuaderno,21
+2026-01-29,Cuaderno,17
+2026-01-30,Cuaderno,26
+2026-01-31,Cuaderno,9
+2026-02-01,Cuaderno,8
+2026-02-02,Cuaderno,14
+2026-02-03,Cuaderno,17
+2026-02-04,Cuaderno,22
+2026-02-05,Cuaderno,18
+2026-02-06,Cuaderno,18
+2026-02-07,Cuaderno,8
+2026-02-08,Cuaderno,10
+2026-02-09,Cuaderno,17
+2026-02-10,Cuaderno,23
+2026-02-11,Cuaderno,23
+2026-02-12,Cuaderno,20
+2026-02-13,Cuaderno,10
+2026-02-14,Cuaderno,5
+2026-02-15,Cuaderno,10
+2026-02-16,Cuaderno,34
+2026-02-17,Cuaderno,24
+2026-02-18,Cuaderno,15
+2026-02-19,Cuaderno,21
+2026-02-20,Cuaderno,26
+2026-02-21,Cuaderno,9
+2026-02-22,Cuaderno,10
+2026-02-23,Cuaderno,21
+2026-02-24,Cuaderno,26
+2026-02-25,Cuaderno,26
+2026-02-26,Cuaderno,24
+2026-02-27,Cuaderno,22
+2026-02-28,Cuaderno,11
+2026-03-01,Cuaderno,6
+2026-03-02,Cuaderno,28
+2026-03-03,Cuaderno,17
+2026-03-04,Cuaderno,20
+2026-03-05,Cuaderno,21
+2026-03-06,Cuaderno,19
+2026-03-07,Cuaderno,7
+2026-03-08,Cuaderno,10
+2026-03-09,Cuaderno,17
+2026-03-10,Cuaderno,11
+2026-03-11,Cuaderno,16
+2026-03-12,Cuaderno,21
+2026-03-13,Cuaderno,19
+2026-03-14,Cuaderno,5
+2026-03-15,Cuaderno,7
+2026-03-16,Cuaderno,19
+2026-03-17,Cuaderno,21
+2026-03-18,Cuaderno,15
+2026-03-19,Cuaderno,26
+2026-03-20,Cuaderno,15
+2026-03-21,Cuaderno,8
+2026-03-22,Cuaderno,2
+2026-03-23,Cuaderno,19
+2026-03-24,Cuaderno,18
+2026-03-25,Cuaderno,18
+2026-03-26,Cuaderno,14
+2026-03-27,Cuaderno,23
+2026-03-28,Cuaderno,7
+2026-03-29,Cuaderno,12
+2026-03-30,Cuaderno,20
+2026-03-31,Cuaderno,20
+2026-04-01,Cuaderno,23
+2026-04-02,Cuaderno,18
+2026-04-03,Cuaderno,27
+2026-04-04,Cuaderno,13
+2026-04-05,Cuaderno,9
+2026-04-06,Cuaderno,26
+2026-04-07,Cuaderno,16
+2026-04-08,Cuaderno,10
+2026-04-09,Cuaderno,25
+2026-04-10,Cuaderno,21
+2026-04-11,Cuaderno,6
+2026-04-12,Cuaderno,7
+2026-04-13,Cuaderno,23
+2026-04-14,Cuaderno,20
+2026-04-15,Cuaderno,16
+2026-04-16,Cuaderno,15
+2026-04-17,Cuaderno,14
+2026-04-18,Cuaderno,9
+2026-04-19,Cuaderno,8
+2026-04-20,Cuaderno,22
+2026-04-21,Cuaderno,26
+2026-04-22,Cuaderno,20
+2026-04-23,Cuaderno,23
+2026-04-24,Cuaderno,20
+2026-04-25,Cuaderno,7
+2026-04-26,Cuaderno,3
+2026-04-27,Cuaderno,22
+2026-04-28,Cuaderno,16
+2026-04-29,Cuaderno,24
+2026-04-30,Cuaderno,25
+2026-05-01,Cuaderno,19
+2026-05-02,Cuaderno,16
+2026-05-03,Cuaderno,9
+2026-05-04,Cuaderno,15
+2026-05-05,Cuaderno,21
+2026-05-06,Cuaderno,24
+2026-05-07,Cuaderno,22
+2026-05-08,Cuaderno,19
+2026-05-09,Cuaderno,10
+2026-05-10,Cuaderno,14
+2026-05-11,Cuaderno,23
+2026-05-12,Cuaderno,28
+2026-05-13,Cuaderno,20
+2026-05-14,Cuaderno,21
+2026-05-15,Cuaderno,30
+2026-05-16,Cuaderno,9
+2026-05-17,Cuaderno,9
+2026-05-18,Cuaderno,20
+2026-05-19,Cuaderno,27
+2026-05-20,Cuaderno,24
+2026-05-21,Cuaderno,27
+2026-05-22,Cuaderno,16
+2026-05-23,Cuaderno,9
+2026-05-24,Cuaderno,3
+2026-05-25,Cuaderno,16
+2026-05-26,Cuaderno,16
+2026-05-27,Cuaderno,24
+2026-05-28,Cuaderno,30
+2026-05-29,Cuaderno,15
+2026-05-30,Cuaderno,8
+2026-05-31,Cuaderno,6
+2026-06-01,Cuaderno,28
+2026-06-02,Cuaderno,19
+2026-06-03,Cuaderno,18
+2026-06-04,Cuaderno,22
+2026-06-05,Cuaderno,25
+2026-06-06,Cuaderno,11
+2026-06-07,Cuaderno,16
+2026-06-08,Cuaderno,14
+2026-06-09,Cuaderno,25
+2026-06-10,Cuaderno,17
+2026-06-11,Cuaderno,24
+2026-06-12,Cuaderno,17
+2026-06-13,Cuaderno,7
+2026-06-14,Cuaderno,11
+2026-06-15,Cuaderno,22
+2026-06-16,Cuaderno,25
+2026-06-17,Cuaderno,16
+2026-06-18,Cuaderno,15
+2026-06-19,Cuaderno,24
+2026-06-20,Cuaderno,6
+2026-06-21,Cuaderno,5
+2026-06-22,Cuaderno,11
+2026-06-23,Cuaderno,16
+2026-06-24,Cuaderno,22
+2026-06-25,Cuaderno,21
+2026-06-26,Cuaderno,26
+2026-06-27,Cuaderno,8
+2026-06-28,Cuaderno,10
+2026-06-29,Cuaderno,21
+2026-06-30,Cuaderno,21
+2026-07-01,Cuaderno,22
+2026-07-02,Cuaderno,22
+2026-07-03,Cuaderno,22
+2026-07-04,Cuaderno,3
+2026-07-05,Cuaderno,11
+2026-07-06,Cuaderno,19
+2026-07-07,Cuaderno,14
+2026-07-08,Cuaderno,15
+2026-07-09,Cuaderno,14
+2026-07-10,Cuaderno,17
+2026-07-11,Cuaderno,4
+2026-07-12,Cuaderno,8
+2026-07-13,Cuaderno,20
+2026-07-14,Cuaderno,28
+2026-07-15,Cuaderno,22
+2026-07-16,Cuaderno,23
+2026-07-17,Cuaderno,22
+2026-07-18,Cuaderno,7
+2026-07-19,Cuaderno,4
+2026-07-20,Cuaderno,28
+2026-07-21,Cuaderno,23
+2026-07-22,Cuaderno,21
+2026-07-23,Cuaderno,25
+2026-07-24,Cuaderno,18
+2026-07-25,Cuaderno,10
+2026-07-26,Cuaderno,9
+2026-07-27,Cuaderno,26
+2026-07-28,Cuaderno,19
+2026-07-29,Cuaderno,27
+2026-07-30,Cuaderno,20
+2026-07-31,Cuaderno,25
+2026-08-01,Cuaderno,8
+2026-08-02,Cuaderno,8
+2026-08-03,Cuaderno,22
+2026-08-04,Cuaderno,26
+2026-08-05,Cuaderno,20
+2026-08-06,Cuaderno,19
+2026-08-07,Cuaderno,15
+2026-08-08,Cuaderno,9
+2026-08-09,Cuaderno,7
+2026-08-10,Cuaderno,14
+2026-08-11,Cuaderno,21
+2026-08-12,Cuaderno,23
+2026-08-13,Cuaderno,17
+2026-08-14,Cuaderno,28
+2026-08-15,Cuaderno,8
+2026-08-16,Cuaderno,13
+2026-08-17,Cuaderno,19
+2026-08-18,Cuaderno,19
+2026-08-19,Cuaderno,22
+2026-08-20,Cuaderno,23
+2026-08-21,Cuaderno,20
+2026-08-22,Cuaderno,12
+2026-08-23,Cuaderno,12
+2026-08-24,Cuaderno,21
+2026-08-25,Cuaderno,22
+2026-08-26,Cuaderno,20
+2026-08-27,Cuaderno,22
+2026-08-28,Cuaderno,22
+2026-08-29,Cuaderno,10
+2026-08-30,Cuaderno,10
+2026-08-31,Cuaderno,24
+2026-09-01,Cuaderno,15
+2026-09-02,Cuaderno,17
+2026-09-03,Cuaderno,16
+2026-09-04,Cuaderno,13
+2026-09-05,Cuaderno,9
+2026-09-06,Cuaderno,5
+2026-09-07,Cuaderno,12
+2026-09-08,Cuaderno,19
+2026-09-09,Cuaderno,20
+2026-09-10,Cuaderno,22
+2026-09-11,Cuaderno,22
+2026-09-12,Cuaderno,5
+2026-09-13,Cuaderno,18
+2026-09-14,Cuaderno,23
+2026-09-15,Cuaderno,22
+2026-09-16,Cuaderno,25
+2026-09-17,Cuaderno,21
+2026-09-18,Cuaderno,16
+2026-09-19,Cuaderno,12
+2026-09-20,Cuaderno,16
+2026-09-21,Cuaderno,21
+2026-09-22,Cuaderno,28
+2026-09-23,Cuaderno,16
+2026-09-24,Cuaderno,19
+2026-09-25,Cuaderno,22
+2026-09-26,Cuaderno,8
+2026-09-27,Cuaderno,11
+2025-09-28,Pluma,18
+2025-09-29,Pluma,69
+2025-09-30,Pluma,63
+2025-10-01,Pluma,67
+2025-10-02,Pluma,60
+2025-10-03,Pluma,68
+2025-10-04,Pluma,30
+2025-10-05,Pluma,23
+2025-10-06,Pluma,54
+2025-10-07,Pluma,46
+2025-10-08,Pluma,60
+2025-10-09,Pluma,60
+2025-10-10,Pluma,50
+2025-10-11,Pluma,19
+2025-10-12,Pluma,27
+2025-10-13,Pluma,45
+2025-10-14,Pluma,55
+2025-10-15,Pluma,58
+2025-10-16,Pluma,54
+2025-10-17,Pluma,47
+2025-10-18,Pluma,31
+2025-10-19,Pluma,26
+2025-10-20,Pluma,49
+2025-10-21,Pluma,52
+2025-10-22,Pluma,55
+2025-10-23,Pluma,56
+2025-10-24,Pluma,61
+2025-10-25,Pluma,22
+2025-10-26,Pluma,30
+2025-10-27,Pluma,65
+2025-10-28,Pluma,60
+2025-10-29,Pluma,63
+2025-10-30,Pluma,49
+2025-10-31,Pluma,57
+2025-11-01,Pluma,28
+2025-11-02,Pluma,25
+2025-11-03,Pluma,51
+2025-11-04,Pluma,54
+2025-11-05,Pluma,59
+2025-11-06,Pluma,52
+2025-11-07,Pluma,61
+2025-11-08,Pluma,22
+2025-11-09,Pluma,37
+2025-11-10,Pluma,62
+2025-11-11,Pluma,55
+2025-11-12,Pluma,51
+2025-11-13,Pluma,55
+2025-11-14,Pluma,53
+2025-11-15,Pluma,31
+2025-11-16,Pluma,24
+2025-11-17,Pluma,48
+2025-11-18,Pluma,53
+2025-11-19,Pluma,48
+2025-11-20,Pluma,62
+2025-11-21,Pluma,56
+2025-11-22,Pluma,29
+2025-11-23,Pluma,31
+2025-11-24,Pluma,54
+2025-11-25,Pluma,63
+2025-11-26,Pluma,59
+2025-11-27,Pluma,65
+2025-11-28,Pluma,50
+2025-11-29,Pluma,26
+2025-11-30,Pluma,26
+2025-12-01,Pluma,72
+2025-12-02,Pluma,62
+2025-12-03,Pluma,58
+2025-12-04,Pluma,58
+2025-12-05,Pluma,63
+2025-12-06,Pluma,23
+2025-12-07,Pluma,34
+2025-12-08,Pluma,52
+2025-12-09,Pluma,62
+2025-12-10,Pluma,43
+2025-12-11,Pluma,52
+2025-12-12,Pluma,49
+2025-12-13,Pluma,25
+2025-12-14,Pluma,26
+2025-12-15,Pluma,48
+2025-12-16,Pluma,62
+2025-12-17,Pluma,55
+2025-12-18,Pluma,60
+2025-12-19,Pluma,58
+2025-12-20,Pluma,19
+2025-12-21,Pluma,25
+2025-12-22,Pluma,61
+2025-12-23,Pluma,65
+2025-12-24,Pluma,62
+2025-12-25,Pluma,52
+2025-12-26,Pluma,50
+2025-12-27,Pluma,25
+2025-12-28,Pluma,27
+2025-12-29,Pluma,53
+2025-12-30,Pluma,50
+2025-12-31,Pluma,60
+2026-01-01,Pluma,54
+2026-01-02,Pluma,57
+2026-01-03,Pluma,26
+2026-01-04,Pluma,28
+2026-01-05,Pluma,68
+2026-01-06,Pluma,64
+2026-01-07,Pluma,58
+2026-01-08,Pluma,67
+2026-01-09,Pluma,58
+2026-01-10,Pluma,24
+2026-01-11,Pluma,28
+2026-01-12,Pluma,68
+2026-01-13,Pluma,58
+2026-01-14,Pluma,59
+2026-01-15,Pluma,53
+2026-01-16,Pluma,70
+2026-01-17,Pluma,28
+2026-01-18,Pluma,23
+2026-01-19,Pluma,60
+2026-01-20,Pluma,63
+2026-01-21,Pluma,49
+2026-01-22,Pluma,65
+2026-01-23,Pluma,59
+2026-01-24,Pluma,23
+2026-01-25,Pluma,30
+2026-01-26,Pluma,62
+2026-01-27,Pluma,70
+2026-01-28,Pluma,56
+2026-01-29,Pluma,68
+2026-01-30,Pluma,58
+2026-01-31,Pluma,16
+2026-02-01,Pluma,18
+2026-02-02,Pluma,55
+2026-02-03,Pluma,55
+2026-02-04,Pluma,53
+2026-02-05,Pluma,57
+2026-02-06,Pluma,40
+2026-02-07,Pluma,23
+2026-02-08,Pluma,29
+2026-02-09,Pluma,52
+2026-02-10,Pluma,54
+2026-02-11,Pluma,55
+2026-02-12,Pluma,61
+2026-02-13,Pluma,48
+2026-02-14,Pluma,26
+2026-02-15,Pluma,32
+2026-02-16,Pluma,53
+2026-02-17,Pluma,54
+2026-02-18,Pluma,52
+2026-02-19,Pluma,37
+2026-02-20,Pluma,75
+2026-02-21,Pluma,25
+2026-02-22,Pluma,28
+2026-02-23,Pluma,52
+2026-02-24,Pluma,57
+2026-02-25,Pluma,69
+2026-02-26,Pluma,50
+2026-02-27,Pluma,49
+2026-02-28,Pluma,22
+2026-03-01,Pluma,25
+2026-03-02,Pluma,58
+2026-03-03,Pluma,56
+2026-03-04,Pluma,54
+2026-03-05,Pluma,74
+2026-03-06,Pluma,47
+2026-03-07,Pluma,26
+2026-03-08,Pluma,21
+2026-03-09,Pluma,51
+2026-03-10,Pluma,55
+2026-03-11,Pluma,58
+2026-03-12,Pluma,53
+2026-03-13,Pluma,58
+2026-03-14,Pluma,37
+2026-03-15,Pluma,26
+2026-03-16,Pluma,64
+2026-03-17,Pluma,46
+2026-03-18,Pluma,61
+2026-03-19,Pluma,57
+2026-03-20,Pluma,46
+2026-03-21,Pluma,22
+2026-03-22,Pluma,29
+2026-03-23,Pluma,60
+2026-03-24,Pluma,66
+2026-03-25,Pluma,62
+2026-03-26,Pluma,45
+2026-03-27,Pluma,51
+2026-03-28,Pluma,28
+2026-03-29,Pluma,27
+2026-03-30,Pluma,57
+2026-03-31,Pluma,51
+2026-04-01,Pluma,56
+2026-04-02,Pluma,76
+2026-04-03,Pluma,63
+2026-04-04,Pluma,18
+2026-04-05,Pluma,25
+2026-04-06,Pluma,75
+2026-04-07,Pluma,50
+2026-04-08,Pluma,64
+2026-04-09,Pluma,49
+2026-04-10,Pluma,54
+2026-04-11,Pluma,23
+2026-04-12,Pluma,25
+2026-04-13,Pluma,56
+2026-04-14,Pluma,57
+2026-04-15,Pluma,59
+2026-04-16,Pluma,53
+2026-04-17,Pluma,52
+2026-04-18,Pluma,19
+2026-04-19,Pluma,29
+2026-04-20,Pluma,69
+2026-04-21,Pluma,54
+2026-04-22,Pluma,61
+2026-04-23,Pluma,57
+2026-04-24,Pluma,50
+2026-04-25,Pluma,25
+2026-04-26,Pluma,27
+2026-04-27,Pluma,60
+2026-04-28,Pluma,42
+2026-04-29,Pluma,62
+2026-04-30,Pluma,67
+2026-05-01,Pluma,54
+2026-05-02,Pluma,15
+2026-05-03,Pluma,24
+2026-05-04,Pluma,50
+2026-05-05,Pluma,64
+2026-05-06,Pluma,55
+2026-05-07,Pluma,47
+2026-05-08,Pluma,55
+2026-05-09,Pluma,25
+2026-05-10,Pluma,18
+2026-05-11,Pluma,74
+2026-05-12,Pluma,59
+2026-05-13,Pluma,58
+2026-05-14,Pluma,47
+2026-05-15,Pluma,68
+2026-05-16,Pluma,22
+2026-05-17,Pluma,22
+2026-05-18,Pluma,70
+2026-05-19,Pluma,47
+2026-05-20,Pluma,53
+2026-05-21,Pluma,44
+2026-05-22,Pluma,69
+2026-05-23,Pluma,21
+2026-05-24,Pluma,19
+2026-05-25,Pluma,59
+2026-05-26,Pluma,60
+2026-05-27,Pluma,55
+2026-05-28,Pluma,65
+2026-05-29,Pluma,60
+2026-05-30,Pluma,22
+2026-05-31,Pluma,24
+2026-06-01,Pluma,58
+2026-06-02,Pluma,64
+2026-06-03,Pluma,53
+2026-06-04,Pluma,64
+2026-06-05,Pluma,61
+2026-06-06,Pluma,23
+2026-06-07,Pluma,22
+2026-06-08,Pluma,63
+2026-06-09,Pluma,53
+2026-06-10,Pluma,46
+2026-06-11,Pluma,56
+2026-06-12,Pluma,58
+2026-06-13,Pluma,32
+2026-06-14,Pluma,18
+2026-06-15,Pluma,57
+2026-06-16,Pluma,59
+2026-06-17,Pluma,53
+2026-06-18,Pluma,62
+2026-06-19,Pluma,43
+2026-06-20,Pluma,22
+2026-06-21,Pluma,30
+2026-06-22,Pluma,58
+2026-06-23,Pluma,51
+2026-06-24,Pluma,65
+2026-06-25,Pluma,48
+2026-06-26,Pluma,48
+2026-06-27,Pluma,29
+2026-06-28,Pluma,27
+2026-06-29,Pluma,72
+2026-06-30,Pluma,57
+2026-07-01,Pluma,56
+2026-07-02,Pluma,57
+2026-07-03,Pluma,55
+2026-07-04,Pluma,24
+2026-07-05,Pluma,21
+2026-07-06,Pluma,53
+2026-07-07,Pluma,47
+2026-07-08,Pluma,49
+2026-07-09,Pluma,59
+2026-07-10,Pluma,56
+2026-07-11,Pluma,20
+2026-07-12,Pluma,23
+2026-07-13,Pluma,56
+2026-07-14,Pluma,56
+2026-07-15,Pluma,52
+2026-07-16,Pluma,58
+2026-07-17,Pluma,64
+2026-07-18,Pluma,20
+2026-07-19,Pluma,15
+2026-07-20,Pluma,67
+2026-07-21,Pluma,47
+2026-07-22,Pluma,60
+2026-07-23,Pluma,61
+2026-07-24,Pluma,54
+2026-07-25,Pluma,30
+2026-07-26,Pluma,29
+2026-07-27,Pluma,45
+2026-07-28,Pluma,58
+2026-07-29,Pluma,64
+2026-07-30,Pluma,58
+2026-07-31,Pluma,53
+2026-08-01,Pluma,31
+2026-08-02,Pluma,24
+2026-08-03,Pluma,47
+2026-08-04,Pluma,54
+2026-08-05,Pluma,54
+2026-08-06,Pluma,52
+2026-08-07,Pluma,60
+2026-08-08,Pluma,28
+2026-08-09,Pluma,14
+2026-08-10,Pluma,62
+2026-08-11,Pluma,50
+2026-08-12,Pluma,50
+2026-08-13,Pluma,64
+2026-08-14,Pluma,58
+2026-08-15,Pluma,26
+2026-08-16,Pluma,28
+2026-08-17,Pluma,49
+2026-08-18,Pluma,60
+2026-08-19,Pluma,51
+2026-08-20,Pluma,55
+2026-08-21,Pluma,50
+2026-08-22,Pluma,23
+2026-08-23,Pluma,20
+2026-08-24,Pluma,64
+2026-08-25,Pluma,74
+2026-08-26,Pluma,48
+2026-08-27,Pluma,62
+2026-08-28,Pluma,59
+2026-08-29,Pluma,26
+2026-08-30,Pluma,27
+2026-08-31,Pluma,53
+2026-09-01,Pluma,64
+2026-09-02,Pluma,65
+2026-09-03,Pluma,45
+2026-09-04,Pluma,60
+2026-09-05,Pluma,21
+2026-09-06,Pluma,29
+2026-09-07,Pluma,68
+2026-09-08,Pluma,43
+2026-09-09,Pluma,46
+2026-09-10,Pluma,58
+2026-09-11,Pluma,51
+2026-09-12,Pluma,26
+2026-09-13,Pluma,26
+2026-09-14,Pluma,52
+2026-09-15,Pluma,50
+2026-09-16,Pluma,66
+2026-09-17,Pluma,60
+2026-09-18,Pluma,47
+2026-09-19,Pluma,29
+2026-09-20,Pluma,26
+2026-09-21,Pluma,36
+2026-09-22,Pluma,52
+2026-09-23,Pluma,58
+2026-09-24,Pluma,61
+2026-09-25,Pluma,52
+2026-09-26,Pluma,22
+2026-09-27,Pluma,15
+2025-09-28,Calculadora,1
+2025-09-29,Calculadora,5
+2025-09-30,Calculadora,5
+2025-10-01,Calculadora,8
+2025-10-02,Calculadora,8
+2025-10-03,Calculadora,7
+2025-10-04,Calculadora,1
+2025-10-05,Calculadora,0
+2025-10-06,Calculadora,3
+2025-10-07,Calculadora,3
+2025-10-08,Calculadora,3
+2025-10-09,Calculadora,6
+2025-10-10,Calculadora,5
+2025-10-11,Calculadora,3
+2025-10-12,Calculadora,0
+2025-10-13,Calculadora,5
+2025-10-14,Calculadora,4
+2025-10-15,Calculadora,3
+2025-10-16,Calculadora,14
+2025-10-17,Calculadora,5
+2025-10-18,Calculadora,1
+2025-10-19,Calculadora,1
+2025-10-20,Calculadora,4
+2025-10-21,Calculadora,10
+2025-10-22,Calculadora,5
+2025-10-23,Calculadora,5
+2025-10-24,Calculadora,7
+2025-10-25,Calculadora,3
+2025-10-26,Calculadora,2
+2025-10-27,Calculadora,8
+2025-10-28,Calculadora,10
+2025-10-29,Calculadora,4
+2025-10-30,Calculadora,5
+2025-10-31,Calculadora,3
+2025-11-01,Calculadora,3
+2025-11-02,Calculadora,1
+2025-11-03,Calculadora,5
+2025-11-04,Calculadora,2
+2025-11-05,Calculadora,4
+2025-11-06,Calculadora,4
+2025-11-07,Calculadora,4
+2025-11-08,Calculadora,3
+2025-11-09,Calculadora,3
+2025-11-10,Calculadora,7
+2025-11-11,Calculadora,6
+2025-11-12,Calculadora,7
+2025-11-13,Calculadora,4
+2025-11-14,Calculadora,4
+2025-11-15,Calculadora,1
+2025-11-16,Calculadora,4
+2025-11-17,Calculadora,5
+2025-11-18,Calculadora,4
+2025-11-19,Calculadora,8
+2025-11-20,Calculadora,7
+2025-11-21,Calculadora,3
+2025-11-22,Calculadora,4
+2025-11-23,Calculadora,0
+2025-11-24,Calculadora,6
+2025-11-25,Calculadora,2
+2025-11-26,Calculadora,5
+2025-11-27,Calculadora,6
+2025-11-28,Calculadora,8
+2025-11-29,Calculadora,1
+2025-11-30,Calculadora,2
+2025-12-01,Calculadora,5
+2025-12-02,Calculadora,4
+2025-12-03,Calculadora,6
+2025-12-04,Calculadora,3
+2025-12-05,Calculadora,7
+2025-12-06,Calculadora,1
+2025-12-07,Calculadora,5
+2025-12-08,Calculadora,6
+2025-12-09,Calculadora,7
+2025-12-10,Calculadora,3
+2025-12-11,Calculadora,6
+2025-12-12,Calculadora,4
+2025-12-13,Calculadora,2
+2025-12-14,Calculadora,1
+2025-12-15,Calculadora,7
+2025-12-16,Calculadora,2
+2025-12-17,Calculadora,5
+2025-12-18,Calculadora,4
+2025-12-19,Calculadora,6
+2025-12-20,Calculadora,2
+2025-12-21,Calculadora,1
+2025-12-22,Calculadora,5
+2025-12-23,Calculadora,4
+2025-12-24,Calculadora,4
+2025-12-25,Calculadora,5
+2025-12-26,Calculadora,6
+2025-12-27,Calculadora,2
+2025-12-28,Calculadora,2
+2025-12-29,Calculadora,8
+2025-12-30,Calculadora,2
+2025-12-31,Calculadora,8
+2026-01-01,Calculadora,6
+2026-01-02,Calculadora,8
+2026-01-03,Calculadora,3
+2026-01-04,Calculadora,0
+2026-01-05,Calculadora,5
+2026-01-06,Calculadora,9
+2026-01-07,Calculadora,5
+2026-01-08,Calculadora,6
+2026-01-09,Calculadora,3
+2026-01-10,Calculadora,0
+2026-01-11,Calculadora,2
+2026-01-12,Calculadora,3
+2026-01-13,Calculadora,12
+2026-01-14,Calculadora,4
+2026-01-15,Calculadora,5
+2026-01-16,Calculadora,1
+2026-01-17,Calculadora,5
+2026-01-18,Calculadora,4
+2026-01-19,Calculadora,6
+2026-01-20,Calculadora,2
+2026-01-21,Calculadora,7
+2026-01-22,Calculadora,7
+2026-01-23,Calculadora,5
+2026-01-24,Calculadora,4
+2026-01-25,Calculadora,1
+2026-01-26,Calculadora,4
+2026-01-27,Calculadora,3
+2026-01-28,Calculadora,1
+2026-01-29,Calculadora,12
+2026-01-30,Calculadora,7
+2026-01-31,Calculadora,3
+2026-02-01,Calculadora,5
+2026-02-02,Calculadora,3
+2026-02-03,Calculadora,5
+2026-02-04,Calculadora,6
+2026-02-05,Calculadora,3
+2026-02-06,Calculadora,6
+2026-02-07,Calculadora,3
+2026-02-08,Calculadora,2
+2026-02-09,Calculadora,4
+2026-02-10,Calculadora,4
+2026-02-11,Calculadora,6
+2026-02-12,Calculadora,6
+2026-02-13,Calculadora,4
+2026-02-14,Calculadora,1
+2026-02-15,Calculadora,2
+2026-02-16,Calculadora,5
+2026-02-17,Calculadora,6
+2026-02-18,Calculadora,5
+2026-02-19,Calculadora,8
+2026-02-20,Calculadora,5
+2026-02-21,Calculadora,3
+2026-02-22,Calculadora,3
+2026-02-23,Calculadora,3
+2026-02-24,Calculadora,3
+2026-02-25,Calculadora,3
+2026-02-26,Calculadora,3
+2026-02-27,Calculadora,5
+2026-02-28,Calculadora,0
+2026-03-01,Calculadora,0
+2026-03-02,Calculadora,5
+2026-03-03,Calculadora,2
+2026-03-04,Calculadora,5
+2026-03-05,Calculadora,6
+2026-03-06,Calculadora,6
+2026-03-07,Calculadora,2
+2026-03-08,Calculadora,2
+2026-03-09,Calculadora,10
+2026-03-10,Calculadora,3
+2026-03-11,Calculadora,3
+2026-03-12,Calculadora,6
+2026-03-13,Calculadora,6
+2026-03-14,Calculadora,3
+2026-03-15,Calculadora,2
+2026-03-16,Calculadora,8
+2026-03-17,Calculadora,6
+2026-03-18,Calculadora,3
+2026-03-19,Calculadora,8
+2026-03-20,Calculadora,15
+2026-03-21,Calculadora,1
+2026-03-22,Calculadora,1
+2026-03-23,Calculadora,5
+2026-03-24,Calculadora,3
+2026-03-25,Calculadora,9
+2026-03-26,Calculadora,6
+2026-03-27,Calculadora,4
+2026-03-28,Calculadora,1
+2026-03-29,Calculadora,3
+2026-03-30,Calculadora,3
+2026-03-31,Calculadora,8
+2026-04-01,Calculadora,2
+2026-04-02,Calculadora,6
+2026-04-03,Calculadora,3
+2026-04-04,Calculadora,1
+2026-04-05,Calculadora,3
+2026-04-06,Calculadora,6
+2026-04-07,Calculadora,6
+2026-04-08,Calculadora,4
+2026-04-09,Calculadora,7
+2026-04-10,Calculadora,6
+2026-04-11,Calculadora,2
+2026-04-12,Calculadora,1
+2026-04-13,Calculadora,6
+2026-04-14,Calculadora,7
+2026-04-15,Calculadora,0
+2026-04-16,Calculadora,6
+2026-04-17,Calculadora,7
+2026-04-18,Calculadora,1
+2026-04-19,Calculadora,0
+2026-04-20,Calculadora,11
+2026-04-21,Calculadora,4
+2026-04-22,Calculadora,9
+2026-04-23,Calculadora,2
+2026-04-24,Calculadora,4
+2026-04-25,Calculadora,5
+2026-04-26,Calculadora,5
+2026-04-27,Calculadora,5
+2026-04-28,Calculadora,8
+2026-04-29,Calculadora,2
+2026-04-30,Calculadora,4
+2026-05-01,Calculadora,9
+2026-05-02,Calculadora,1
+2026-05-03,Calculadora,5
+2026-05-04,Calculadora,6
+2026-05-05,Calculadora,6
+2026-05-06,Calculadora,4
+2026-05-07,Calculadora,1
+2026-05-08,Calculadora,6
+2026-05-09,Calculadora,1
+2026-05-10,Calculadora,3
+2026-05-11,Calculadora,8
+2026-05-12,Calculadora,8
+2026-05-13,Calculadora,11
+2026-05-14,Calculadora,5
+2026-05-15,Calculadora,7
+2026-05-16,Calculadora,1
+2026-05-17,Calculadora,2
+2026-05-18,Calculadora,4
+2026-05-19,Calculadora,6
+2026-05-20,Calculadora,7
+2026-05-21,Calculadora,4
+2026-05-22,Calculadora,6
+2026-05-23,Calculadora,1
+2026-05-24,Calculadora,7
+2026-05-25,Calculadora,5
+2026-05-26,Calculadora,4
+2026-05-27,Calculadora,5
+2026-05-28,Calculadora,6
+2026-05-29,Calculadora,5
+2026-05-30,Calculadora,3
+2026-05-31,Calculadora,0
+2026-06-01,Calculadora,9
+2026-06-02,Calculadora,7
+2026-06-03,Calculadora,7
+2026-06-04,Calculadora,8
+2026-06-05,Calculadora,7
+2026-06-06,Calculadora,2
+2026-06-07,Calculadora,4
+2026-06-08,Calculadora,7
+2026-06-09,Calculadora,5
+2026-06-10,Calculadora,5
+2026-06-11,Calculadora,5
+2026-06-12,Calculadora,2
+2026-06-13,Calculadora,4
+2026-06-14,Calculadora,2
+2026-06-15,Calculadora,6
+2026-06-16,Calculadora,6
+2026-06-17,Calculadora,1
+2026-06-18,Calculadora,5
+2026-06-19,Calculadora,5
+2026-06-20,Calculadora,0
+2026-06-21,Calculadora,3
+2026-06-22,Calculadora,5
+2026-06-23,Calculadora,7
+2026-06-24,Calculadora,9
+2026-06-25,Calculadora,7
+2026-06-26,Calculadora,6
+2026-06-27,Calculadora,4
+2026-06-28,Calculadora,3
+2026-06-29,Calculadora,12
+2026-06-30,Calculadora,5
+2026-07-01,Calculadora,8
+2026-07-02,Calculadora,6
+2026-07-03,Calculadora,7
+2026-07-04,Calculadora,2
+2026-07-05,Calculadora,5
+2026-07-06,Calculadora,8
+2026-07-07,Calculadora,4
+2026-07-08,Calculadora,3
+2026-07-09,Calculadora,6
+2026-07-10,Calculadora,1
+2026-07-11,Calculadora,1
+2026-07-12,Calculadora,6
+2026-07-13,Calculadora,12
+2026-07-14,Calculadora,2
+2026-07-15,Calculadora,8
+2026-07-16,Calculadora,4
+2026-07-17,Calculadora,7
+2026-07-18,Calculadora,2
+2026-07-19,Calculadora,1
+2026-07-20,Calculadora,6
+2026-07-21,Calculadora,7
+2026-07-22,Calculadora,9
+2026-07-23,Calculadora,4
+2026-07-24,Calculadora,3
+2026-07-25,Calculadora,2
+2026-07-26,Calculadora,0
+2026-07-27,Calculadora,6
+2026-07-28,Calculadora,4
+2026-07-29,Calculadora,4
+2026-07-30,Calculadora,6
+2026-07-31,Calculadora,6
+2026-08-01,Calculadora,2
+2026-08-02,Calculadora,3
+2026-08-03,Calculadora,6
+2026-08-04,Calculadora,6
+2026-08-05,Calculadora,2
+2026-08-06,Calculadora,9
+2026-08-07,Calculadora,7
+2026-08-08,Calculadora,4
+2026-08-09,Calculadora,2
+2026-08-10,Calculadora,8
+2026-08-11,Calculadora,7
+2026-08-12,Calculadora,9
+2026-08-13,Calculadora,8
+2026-08-14,Calculadora,4
+2026-08-15,Calculadora,0
+2026-08-16,Calculadora,2
+2026-08-17,Calculadora,4
+2026-08-18,Calculadora,5
+2026-08-19,Calculadora,3
+2026-08-20,Calculadora,10
+2026-08-21,Calculadora,4
+2026-08-22,Calculadora,5
+2026-08-23,Calculadora,1
+2026-08-24,Calculadora,6
+2026-08-25,Calculadora,3
+2026-08-26,Calculadora,10
+2026-08-27,Calculadora,5
+2026-08-28,Calculadora,5
+2026-08-29,Calculadora,3
+2026-08-30,Calculadora,3
+2026-08-31,Calculadora,6
+2026-09-01,Calculadora,8
+2026-09-02,Calculadora,5
+2026-09-03,Calculadora,1
+2026-09-04,Calculadora,2
+2026-09-05,Calculadora,1
+2026-09-06,Calculadora,1
+2026-09-07,Calculadora,7
+2026-09-08,Calculadora,6
+2026-09-09,Calculadora,1
+2026-09-10,Calculadora,7
+2026-09-11,Calculadora,9
+2026-09-12,Calculadora,2
+2026-09-13,Calculadora,3
+2026-09-14,Calculadora,6
+2026-09-15,Calculadora,4
+2026-09-16,Calculadora,5
+2026-09-17,Calculadora,3
+2026-09-18,Calculadora,1
+2026-09-19,Calculadora,3
+2026-09-20,Calculadora,3
+2026-09-21,Calculadora,6
+2026-09-22,Calculadora,6
+2026-09-23,Calculadora,5
+2026-09-24,Calculadora,10
+2026-09-25,Calculadora,7
+2026-09-26,Calculadora,2
+2026-09-27,Calculadora,1
+2025-09-28,USB 32 GB,4
+2025-09-29,USB 32 GB,5
+2025-09-30,USB 32 GB,6
+2025-10-01,USB 32 GB,8
+2025-10-02,USB 32 GB,4
+2025-10-03,USB 32 GB,9
+2025-10-04,USB 32 GB,3
+2025-10-05,USB 32 GB,0
+2025-10-06,USB 32 GB,7
+2025-10-07,USB 32 GB,5
+2025-10-08,USB 32 GB,6
+2025-10-09,USB 32 GB,6
+2025-10-10,USB 32 GB,7
+2025-10-11,USB 32 GB,1
+2025-10-12,USB 32 GB,1
+2025-10-13,USB 32 GB,6
+2025-10-14,USB 32 GB,7
+2025-10-15,USB 32 GB,6
+2025-10-16,USB 32 GB,12
+2025-10-17,USB 32 GB,9
+2025-10-18,USB 32 GB,0
+2025-10-19,USB 32 GB,3
+2025-10-20,USB 32 GB,7
+2025-10-21,USB 32 GB,8
+2025-10-22,USB 32 GB,8
+2025-10-23,USB 32 GB,9
+2025-10-24,USB 32 GB,6
+2025-10-25,USB 32 GB,6
+2025-10-26,USB 32 GB,4
+2025-10-27,USB 32 GB,3
+2025-10-28,USB 32 GB,6
+2025-10-29,USB 32 GB,3
+2025-10-30,USB 32 GB,3
+2025-10-31,USB 32 GB,8
+2025-11-01,USB 32 GB,0
+2025-11-02,USB 32 GB,0
+2025-11-03,USB 32 GB,5
+2025-11-04,USB 32 GB,5
+2025-11-05,USB 32 GB,7
+2025-11-06,USB 32 GB,9
+2025-11-07,USB 32 GB,5
+2025-11-08,USB 32 GB,5
+2025-11-09,USB 32 GB,0
+2025-11-10,USB 32 GB,3
+2025-11-11,USB 32 GB,5
+2025-11-12,USB 32 GB,0
+2025-11-13,USB 32 GB,11
+2025-11-14,USB 32 GB,3
+2025-11-15,USB 32 GB,1
+2025-11-16,USB 32 GB,4
+2025-11-17,USB 32 GB,9
+2025-11-18,USB 32 GB,5
+2025-11-19,USB 32 GB,7
+2025-11-20,USB 32 GB,4
+2025-11-21,USB 32 GB,8
+2025-11-22,USB 32 GB,6
+2025-11-23,USB 32 GB,2
+2025-11-24,USB 32 GB,8
+2025-11-25,USB 32 GB,7
+2025-11-26,USB 32 GB,7
+2025-11-27,USB 32 GB,9
+2025-11-28,USB 32 GB,8
+2025-11-29,USB 32 GB,0
+2025-11-30,USB 32 GB,6
+2025-12-01,USB 32 GB,7
+2025-12-02,USB 32 GB,7
+2025-12-03,USB 32 GB,8
+2025-12-04,USB 32 GB,11
+2025-12-05,USB 32 GB,9
+2025-12-06,USB 32 GB,3
+2025-12-07,USB 32 GB,2
+2025-12-08,USB 32 GB,7
+2025-12-09,USB 32 GB,7
+2025-12-10,USB 32 GB,8
+2025-12-11,USB 32 GB,8
+2025-12-12,USB 32 GB,6
+2025-12-13,USB 32 GB,4
+2025-12-14,USB 32 GB,0
+2025-12-15,USB 32 GB,6
+2025-12-16,USB 32 GB,4
+2025-12-17,USB 32 GB,9
+2025-12-18,USB 32 GB,6
+2025-12-19,USB 32 GB,5
+2025-12-20,USB 32 GB,3
+2025-12-21,USB 32 GB,4
+2025-12-22,USB 32 GB,7
+2025-12-23,USB 32 GB,7
+2025-12-24,USB 32 GB,7
+2025-12-25,USB 32 GB,9
+2025-12-26,USB 32 GB,6
+2025-12-27,USB 32 GB,3
+2025-12-28,USB 32 GB,0
+2025-12-29,USB 32 GB,7
+2025-12-30,USB 32 GB,8
+2025-12-31,USB 32 GB,6
+2026-01-01,USB 32 GB,9
+2026-01-02,USB 32 GB,10
+2026-01-03,USB 32 GB,3
+2026-01-04,USB 32 GB,5
+2026-01-05,USB 32 GB,9
+2026-01-06,USB 32 GB,8
+2026-01-07,USB 32 GB,7
+2026-01-08,USB 32 GB,7
+2026-01-09,USB 32 GB,11
+2026-01-10,USB 32 GB,2
+2026-01-11,USB 32 GB,3
+2026-01-12,USB 32 GB,9
+2026-01-13,USB 32 GB,7
+2026-01-14,USB 32 GB,13
+2026-01-15,USB 32 GB,8
+2026-01-16,USB 32 GB,8
+2026-01-17,USB 32 GB,1
+2026-01-18,USB 32 GB,2
+2026-01-19,USB 32 GB,12
+2026-01-20,USB 32 GB,9
+2026-01-21,USB 32 GB,9
+2026-01-22,USB 32 GB,10
+2026-01-23,USB 32 GB,4
+2026-01-24,USB 32 GB,0
+2026-01-25,USB 32 GB,7
+2026-01-26,USB 32 GB,6
+2026-01-27,USB 32 GB,8
+2026-01-28,USB 32 GB,6
+2026-01-29,USB 32 GB,11
+2026-01-30,USB 32 GB,5
+2026-01-31,USB 32 GB,2
+2026-02-01,USB 32 GB,5
+2026-02-02,USB 32 GB,7
+2026-02-03,USB 32 GB,8
+2026-02-04,USB 32 GB,5
+2026-02-05,USB 32 GB,8
+2026-02-06,USB 32 GB,5
+2026-02-07,USB 32 GB,2
+2026-02-08,USB 32 GB,2
+2026-02-09,USB 32 GB,7
+2026-02-10,USB 32 GB,5
+2026-02-11,USB 32 GB,8
+2026-02-12,USB 32 GB,12
+2026-02-13,USB 32 GB,5
+2026-02-14,USB 32 GB,1
+2026-02-15,USB 32 GB,4
+2026-02-16,USB 32 GB,10
+2026-02-17,USB 32 GB,5
+2026-02-18,USB 32 GB,7
+2026-02-19,USB 32 GB,5
+2026-02-20,USB 32 GB,3
+2026-02-21,USB 32 GB,8
+2026-02-22,USB 32 GB,1
+2026-02-23,USB 32 GB,9
+2026-02-24,USB 32 GB,8
+2026-02-25,USB 32 GB,14
+2026-02-26,USB 32 GB,11
+2026-02-27,USB 32 GB,11
+2026-02-28,USB 32 GB,3
+2026-03-01,USB 32 GB,1
+2026-03-02,USB 32 GB,9
+2026-03-03,USB 32 GB,11
+2026-03-04,USB 32 GB,12
+2026-03-05,USB 32 GB,7
+2026-03-06,USB 32 GB,14
+2026-03-07,USB 32 GB,5
+2026-03-08,USB 32 GB,2
+2026-03-09,USB 32 GB,8
+2026-03-10,USB 32 GB,7
+2026-03-11,USB 32 GB,8
+2026-03-12,USB 32 GB,10
+2026-03-13,USB 32 GB,6
+2026-03-14,USB 32 GB,1
+2026-03-15,USB 32 GB,2
+2026-03-16,USB 32 GB,8
+2026-03-17,USB 32 GB,7
+2026-03-18,USB 32 GB,8
+2026-03-19,USB 32 GB,5
+2026-03-20,USB 32 GB,9
+2026-03-21,USB 32 GB,1
+2026-03-22,USB 32 GB,2
+2026-03-23,USB 32 GB,3
+2026-03-24,USB 32 GB,4
+2026-03-25,USB 32 GB,9
+2026-03-26,USB 32 GB,4
+2026-03-27,USB 32 GB,10
+2026-03-28,USB 32 GB,2
+2026-03-29,USB 32 GB,3
+2026-03-30,USB 32 GB,7
+2026-03-31,USB 32 GB,4
+2026-04-01,USB 32 GB,5
+2026-04-02,USB 32 GB,6
+2026-04-03,USB 32 GB,7
+2026-04-04,USB 32 GB,1
+2026-04-05,USB 32 GB,3
+2026-04-06,USB 32 GB,6
+2026-04-07,USB 32 GB,7
+2026-04-08,USB 32 GB,8
+2026-04-09,USB 32 GB,4
+2026-04-10,USB 32 GB,6
+2026-04-11,USB 32 GB,3
+2026-04-12,USB 32 GB,2
+2026-04-13,USB 32 GB,4
+2026-04-14,USB 32 GB,4
+2026-04-15,USB 32 GB,7
+2026-04-16,USB 32 GB,15
+2026-04-17,USB 32 GB,3
+2026-04-18,USB 32 GB,3
+2026-04-19,USB 32 GB,1
+2026-04-20,USB 32 GB,3
+2026-04-21,USB 32 GB,7
+2026-04-22,USB 32 GB,7
+2026-04-23,USB 32 GB,6
+2026-04-24,USB 32 GB,7
+2026-04-25,USB 32 GB,1
+2026-04-26,USB 32 GB,2
+2026-04-27,USB 32 GB,8
+2026-04-28,USB 32 GB,7
+2026-04-29,USB 32 GB,5
+2026-04-30,USB 32 GB,6
+2026-05-01,USB 32 GB,5
+2026-05-02,USB 32 GB,6
+2026-05-03,USB 32 GB,4
+2026-05-04,USB 32 GB,6
+2026-05-05,USB 32 GB,10
+2026-05-06,USB 32 GB,5
+2026-05-07,USB 32 GB,3
+2026-05-08,USB 32 GB,9
+2026-05-09,USB 32 GB,1
+2026-05-10,USB 32 GB,1
+2026-05-11,USB 32 GB,9
+2026-05-12,USB 32 GB,3
+2026-05-13,USB 32 GB,10
+2026-05-14,USB 32 GB,3
+2026-05-15,USB 32 GB,6
+2026-05-16,USB 32 GB,2
+2026-05-17,USB 32 GB,5
+2026-05-18,USB 32 GB,1
+2026-05-19,USB 32 GB,3
+2026-05-20,USB 32 GB,10
+2026-05-21,USB 32 GB,7
+2026-05-22,USB 32 GB,7
+2026-05-23,USB 32 GB,3
+2026-05-24,USB 32 GB,3
+2026-05-25,USB 32 GB,4
+2026-05-26,USB 32 GB,7
+2026-05-27,USB 32 GB,8
+2026-05-28,USB 32 GB,9
+2026-05-29,USB 32 GB,11
+2026-05-30,USB 32 GB,2
+2026-05-31,USB 32 GB,4
+2026-06-01,USB 32 GB,7
+2026-06-02,USB 32 GB,7
+2026-06-03,USB 32 GB,5
+2026-06-04,USB 32 GB,3
+2026-06-05,USB 32 GB,5
+2026-06-06,USB 32 GB,1
+2026-06-07,USB 32 GB,3
+2026-06-08,USB 32 GB,10
+2026-06-09,USB 32 GB,8
+2026-06-10,USB 32 GB,8
+2026-06-11,USB 32 GB,7
+2026-06-12,USB 32 GB,12
+2026-06-13,USB 32 GB,2
+2026-06-14,USB 32 GB,3
+2026-06-15,USB 32 GB,10
+2026-06-16,USB 32 GB,7
+2026-06-17,USB 32 GB,8
+2026-06-18,USB 32 GB,4
+2026-06-19,USB 32 GB,8
+2026-06-20,USB 32 GB,3
+2026-06-21,USB 32 GB,1
+2026-06-22,USB 32 GB,11
+2026-06-23,USB 32 GB,8
+2026-06-24,USB 32 GB,10
+2026-06-25,USB 32 GB,6
+2026-06-26,USB 32 GB,4
+2026-06-27,USB 32 GB,3
+2026-06-28,USB 32 GB,0
+2026-06-29,USB 32 GB,1
+2026-06-30,USB 32 GB,7
+2026-07-01,USB 32 GB,9
+2026-07-02,USB 32 GB,8
+2026-07-03,USB 32 GB,12
+2026-07-04,USB 32 GB,0
+2026-07-05,USB 32 GB,5
+2026-07-06,USB 32 GB,4
+2026-07-07,USB 32 GB,6
+2026-07-08,USB 32 GB,8
+2026-07-09,USB 32 GB,4
+2026-07-10,USB 32 GB,6
+2026-07-11,USB 32 GB,7
+2026-07-12,USB 32 GB,2
+2026-07-13,USB 32 GB,4
+2026-07-14,USB 32 GB,4
+2026-07-15,USB 32 GB,10
+2026-07-16,USB 32 GB,5
+2026-07-17,USB 32 GB,6
+2026-07-18,USB 32 GB,3
+2026-07-19,USB 32 GB,6
+2026-07-20,USB 32 GB,14
+2026-07-21,USB 32 GB,13
+2026-07-22,USB 32 GB,5
+2026-07-23,USB 32 GB,8
+2026-07-24,USB 32 GB,6
+2026-07-25,USB 32 GB,2
+2026-07-26,USB 32 GB,3
+2026-07-27,USB 32 GB,4
+2026-07-28,USB 32 GB,7
+2026-07-29,USB 32 GB,6
+2026-07-30,USB 32 GB,5
+2026-07-31,USB 32 GB,7
+2026-08-01,USB 32 GB,5
+2026-08-02,USB 32 GB,2
+2026-08-03,USB 32 GB,6
+2026-08-04,USB 32 GB,6
+2026-08-05,USB 32 GB,8
+2026-08-06,USB 32 GB,6
+2026-08-07,USB 32 GB,7
+2026-08-08,USB 32 GB,5
+2026-08-09,USB 32 GB,2
+2026-08-10,USB 32 GB,7
+2026-08-11,USB 32 GB,4
+2026-08-12,USB 32 GB,12
+2026-08-13,USB 32 GB,5
+2026-08-14,USB 32 GB,6
+2026-08-15,USB 32 GB,4
+2026-08-16,USB 32 GB,2
+2026-08-17,USB 32 GB,4
+2026-08-18,USB 32 GB,6
+2026-08-19,USB 32 GB,9
+2026-08-20,USB 32 GB,12
+2026-08-21,USB 32 GB,5
+2026-08-22,USB 32 GB,0
+2026-08-23,USB 32 GB,4
+2026-08-24,USB 32 GB,5
+2026-08-25,USB 32 GB,3
+2026-08-26,USB 32 GB,10
+2026-08-27,USB 32 GB,9
+2026-08-28,USB 32 GB,4
+2026-08-29,USB 32 GB,1
+2026-08-30,USB 32 GB,1
+2026-08-31,USB 32 GB,10
+2026-09-01,USB 32 GB,4
+2026-09-02,USB 32 GB,9
+2026-09-03,USB 32 GB,4
+2026-09-04,USB 32 GB,9
+2026-09-05,USB 32 GB,4
+2026-09-06,USB 32 GB,6
+2026-09-07,USB 32 GB,4
+2026-09-08,USB 32 GB,3
+2026-09-09,USB 32 GB,7
+2026-09-10,USB 32 GB,3
+2026-09-11,USB 32 GB,8
+2026-09-12,USB 32 GB,1
+2026-09-13,USB 32 GB,4
+2026-09-14,USB 32 GB,11
+2026-09-15,USB 32 GB,5
+2026-09-16,USB 32 GB,9
+2026-09-17,USB 32 GB,8
+2026-09-18,USB 32 GB,5
+2026-09-19,USB 32 GB,4
+2026-09-20,USB 32 GB,1
+2026-09-21,USB 32 GB,6
+2026-09-22,USB 32 GB,8
+2026-09-23,USB 32 GB,8
+2026-09-24,USB 32 GB,10
+2026-09-25,USB 32 GB,2
+2026-09-26,USB 32 GB,1
+2026-09-27,USB 32 GB,5
+2025-09-28,Audífonos,2
+2025-09-29,Audífonos,7
+2025-09-30,Audífonos,3
+2025-10-01,Audífonos,8
+2025-10-02,Audífonos,10
+2025-10-03,Audífonos,5
+2025-10-04,Audífonos,1
+2025-10-05,Audífonos,4
+2025-10-06,Audífonos,6
+2025-10-07,Audífonos,7
+2025-10-08,Audífonos,10
+2025-10-09,Audífonos,5
+2025-10-10,Audífonos,4
+2025-10-11,Audífonos,1
+2025-10-12,Audífonos,2
+2025-10-13,Audífonos,6
+2025-10-14,Audífonos,6
+2025-10-15,Audífonos,3
+2025-10-16,Audífonos,7
+2025-10-17,Audífonos,3
+2025-10-18,Audífonos,2
+2025-10-19,Audífonos,4
+2025-10-20,Audífonos,6
+2025-10-21,Audífonos,5
+2025-10-22,Audífonos,3
+2025-10-23,Audífonos,5
+2025-10-24,Audífonos,8
+2025-10-25,Audífonos,4
+2025-10-26,Audífonos,0
+2025-10-27,Audífonos,7
+2025-10-28,Audífonos,6
+2025-10-29,Audífonos,6
+2025-10-30,Audífonos,8
+2025-10-31,Audífonos,5
+2025-11-01,Audífonos,0
+2025-11-02,Audífonos,5
+2025-11-03,Audífonos,10
+2025-11-04,Audífonos,7
+2025-11-05,Audífonos,5
+2025-11-06,Audífonos,10
+2025-11-07,Audífonos,7
+2025-11-08,Audífonos,4
+2025-11-09,Audífonos,2
+2025-11-10,Audífonos,5
+2025-11-11,Audífonos,5
+2025-11-12,Audífonos,8
+2025-11-13,Audífonos,6
+2025-11-14,Audífonos,4
+2025-11-15,Audífonos,3
+2025-11-16,Audífonos,0
+2025-11-17,Audífonos,4
+2025-11-18,Audífonos,6
+2025-11-19,Audífonos,11
+2025-11-20,Audífonos,4
+2025-11-21,Audífonos,6
+2025-11-22,Audífonos,1
+2025-11-23,Audífonos,1
+2025-11-24,Audífonos,5
+2025-11-25,Audífonos,7
+2025-11-26,Audífonos,8
+2025-11-27,Audífonos,6
+2025-11-28,Audífonos,5
+2025-11-29,Audífonos,3
+2025-11-30,Audífonos,2
+2025-12-01,Audífonos,3
+2025-12-02,Audífonos,3
+2025-12-03,Audífonos,3
+2025-12-04,Audífonos,7
+2025-12-05,Audífonos,7
+2025-12-06,Audífonos,3
+2025-12-07,Audífonos,4
+2025-12-08,Audífonos,8
+2025-12-09,Audífonos,2
+2025-12-10,Audífonos,6
+2025-12-11,Audífonos,6
+2025-12-12,Audífonos,3
+2025-12-13,Audífonos,1
+2025-12-14,Audífonos,2
+2025-12-15,Audífonos,7
+2025-12-16,Audífonos,6
+2025-12-17,Audífonos,4
+2025-12-18,Audífonos,8
+2025-12-19,Audífonos,4
+2025-12-20,Audífonos,0
+2025-12-21,Audífonos,4
+2025-12-22,Audífonos,7
+2025-12-23,Audífonos,7
+2025-12-24,Audífonos,7
+2025-12-25,Audífonos,7
+2025-12-26,Audífonos,6
+2025-12-27,Audífonos,4
+2025-12-28,Audífonos,1
+2025-12-29,Audífonos,4
+2025-12-30,Audífonos,8
+2025-12-31,Audífonos,8
+2026-01-01,Audífonos,5
+2026-01-02,Audífonos,7
+2026-01-03,Audífonos,5
+2026-01-04,Audífonos,1
+2026-01-05,Audífonos,5
+2026-01-06,Audífonos,4
+2026-01-07,Audífonos,4
+2026-01-08,Audífonos,4
+2026-01-09,Audífonos,7
+2026-01-10,Audífonos,5
+2026-01-11,Audífonos,3
+2026-01-12,Audífonos,7
+2026-01-13,Audífonos,7
+2026-01-14,Audífonos,2
+2026-01-15,Audífonos,3
+2026-01-16,Audífonos,3
+2026-01-17,Audífonos,3
+2026-01-18,Audífonos,3
+2026-01-19,Audífonos,7
+2026-01-20,Audífonos,4
+2026-01-21,Audífonos,4
+2026-01-22,Audífonos,4
+2026-01-23,Audífonos,5
+2026-01-24,Audífonos,2
+2026-01-25,Audífonos,6
+2026-01-26,Audífonos,5
+2026-01-27,Audífonos,8
+2026-01-28,Audífonos,3
+2026-01-29,Audífonos,7
+2026-01-30,Audífonos,3
+2026-01-31,Audífonos,0
+2026-02-01,Audífonos,2
+2026-02-02,Audífonos,8
+2026-02-03,Audífonos,7
+2026-02-04,Audífonos,3
+2026-02-05,Audífonos,3
+2026-02-06,Audífonos,3
+2026-02-07,Audífonos,2
+2026-02-08,Audífonos,3
+2026-02-09,Audífonos,6
+2026-02-10,Audífonos,3
+2026-02-11,Audífonos,5
+2026-02-12,Audífonos,5
+2026-02-13,Audífonos,6
+2026-02-14,Audífonos,2
+2026-02-15,Audífonos,1
+2026-02-16,Audífonos,4
+2026-02-17,Audífonos,5
+2026-02-18,Audífonos,2
+2026-02-19,Audífonos,8
+2026-02-20,Audífonos,8
+2026-02-21,Audífonos,3
+2026-02-22,Audífonos,3
+2026-02-23,Audífonos,7
+2026-02-24,Audífonos,3
+2026-02-25,Audífonos,4
+2026-02-26,Audífonos,6
+2026-02-27,Audífonos,3
+2026-02-28,Audífonos,2
+2026-03-01,Audífonos,2
+2026-03-02,Audífonos,5
+2026-03-03,Audífonos,10
+2026-03-04,Audífonos,2
+2026-03-05,Audífonos,12
+2026-03-06,Audífonos,9
+2026-03-07,Audífonos,2
+2026-03-08,Audífonos,1
+2026-03-09,Audífonos,4
+2026-03-10,Audífonos,4
+2026-03-11,Audífonos,4
+2026-03-12,Audífonos,5
+2026-03-13,Audífonos,5
+2026-03-14,Audífonos,2
+2026-03-15,Audífonos,1
+2026-03-16,Audífonos,2
+2026-03-17,Audífonos,12
+2026-03-18,Audífonos,3
+2026-03-19,Audífonos,6
+2026-03-20,Audífonos,3
+2026-03-21,Audífonos,5
+2026-03-22,Audífonos,3
+2026-03-23,Audífonos,3
+2026-03-24,Audífonos,7
+2026-03-25,Audífonos,5
+2026-03-26,Audífonos,5
+2026-03-27,Audífonos,4
+2026-03-28,Audífonos,2
+2026-03-29,Audífonos,3
+2026-03-30,Audífonos,9
+2026-03-31,Audífonos,9
+2026-04-01,Audífonos,5
+2026-04-02,Audífonos,4
+2026-04-03,Audífonos,6
+2026-04-04,Audífonos,3
+2026-04-05,Audífonos,2
+2026-04-06,Audífonos,4
+2026-04-07,Audífonos,4
+2026-04-08,Audífonos,7
+2026-04-09,Audífonos,5
+2026-04-10,Audífonos,8
+2026-04-11,Audífonos,1
+2026-04-12,Audífonos,4
+2026-04-13,Audífonos,4
+2026-04-14,Audífonos,7
+2026-04-15,Audífonos,6
+2026-04-16,Audífonos,3
+2026-04-17,Audífonos,6
+2026-04-18,Audífonos,3
+2026-04-19,Audífonos,3
+2026-04-20,Audífonos,5
+2026-04-21,Audífonos,3
+2026-04-22,Audífonos,7
+2026-04-23,Audífonos,6
+2026-04-24,Audífonos,6
+2026-04-25,Audífonos,4
+2026-04-26,Audífonos,2
+2026-04-27,Audífonos,7
+2026-04-28,Audífonos,7
+2026-04-29,Audífonos,4
+2026-04-30,Audífonos,2
+2026-05-01,Audífonos,8
+2026-05-02,Audífonos,0
+2026-05-03,Audífonos,1
+2026-05-04,Audífonos,8
+2026-05-05,Audífonos,7
+2026-05-06,Audífonos,1
+2026-05-07,Audífonos,5
+2026-05-08,Audífonos,6
+2026-05-09,Audífonos,1
+2026-05-10,Audífonos,2
+2026-05-11,Audífonos,9
+2026-05-12,Audífonos,10
+2026-05-13,Audífonos,3
+2026-05-14,Audífonos,2
+2026-05-15,Audífonos,5
+2026-05-16,Audífonos,0
+2026-05-17,Audífonos,1
+2026-05-18,Audífonos,3
+2026-05-19,Audífonos,4
+2026-05-20,Audífonos,4
+2026-05-21,Audífonos,7
+2026-05-22,Audífonos,4
+2026-05-23,Audífonos,3
+2026-05-24,Audífonos,4
+2026-05-25,Audífonos,12
+2026-05-26,Audífonos,9
+2026-05-27,Audífonos,6
+2026-05-28,Audífonos,7
+2026-05-29,Audífonos,8
+2026-05-30,Audífonos,2
+2026-05-31,Audífonos,4
+2026-06-01,Audífonos,7
+2026-06-02,Audífonos,4
+2026-06-03,Audífonos,5
+2026-06-04,Audífonos,3
+2026-06-05,Audífonos,7
+2026-06-06,Audífonos,6
+2026-06-07,Audífonos,2
+2026-06-08,Audífonos,4
+2026-06-09,Audífonos,4
+2026-06-10,Audífonos,7
+2026-06-11,Audífonos,6
+2026-06-12,Audífonos,5
+2026-06-13,Audífonos,4
+2026-06-14,Audífonos,3
+2026-06-15,Audífonos,5
+2026-06-16,Audífonos,6
+2026-06-17,Audífonos,6
+2026-06-18,Audífonos,10
+2026-06-19,Audífonos,7
+2026-06-20,Audífonos,0
+2026-06-21,Audífonos,3
+2026-06-22,Audífonos,3
+2026-06-23,Audífonos,4
+2026-06-24,Audífonos,9
+2026-06-25,Audífonos,11
+2026-06-26,Audífonos,4
+2026-06-27,Audífonos,2
+2026-06-28,Audífonos,8
+2026-06-29,Audífonos,7
+2026-06-30,Audífonos,7
+2026-07-01,Audífonos,8
+2026-07-02,Audífonos,7
+2026-07-03,Audífonos,1
+2026-07-04,Audífonos,2
+2026-07-05,Audífonos,1
+2026-07-06,Audífonos,7
+2026-07-07,Audífonos,13
+2026-07-08,Audífonos,8
+2026-07-09,Audífonos,9
+2026-07-10,Audífonos,11
+2026-07-11,Audífonos,4
+2026-07-12,Audífonos,0
+2026-07-13,Audífonos,3
+2026-07-14,Audífonos,5
+2026-07-15,Audífonos,10
+2026-07-16,Audífonos,5
+2026-07-17,Audífonos,3
+2026-07-18,Audífonos,1
+2026-07-19,Audífonos,2
+2026-07-20,Audífonos,5
+2026-07-21,Audífonos,7
+2026-07-22,Audífonos,7
+2026-07-23,Audífonos,3
+2026-07-24,Audífonos,8
+2026-07-25,Audífonos,6
+2026-07-26,Audífonos,4
+2026-07-27,Audífonos,10
+2026-07-28,Audífonos,4
+2026-07-29,Audífonos,10
+2026-07-30,Audífonos,8
+2026-07-31,Audífonos,7
+2026-08-01,Audífonos,2
+2026-08-02,Audífonos,4
+2026-08-03,Audífonos,14
+2026-08-04,Audífonos,6
+2026-08-05,Audífonos,6
+2026-08-06,Audífonos,6
+2026-08-07,Audífonos,6
+2026-08-08,Audífonos,3
+2026-08-09,Audífonos,1
+2026-08-10,Audífonos,2
+2026-08-11,Audífonos,5
+2026-08-12,Audífonos,4
+2026-08-13,Audífonos,2
+2026-08-14,Audífonos,6
+2026-08-15,Audífonos,7
+2026-08-16,Audífonos,5
+2026-08-17,Audífonos,7
+2026-08-18,Audífonos,5
+2026-08-19,Audífonos,6
+2026-08-20,Audífonos,9
+2026-08-21,Audífonos,2
+2026-08-22,Audífonos,3
+2026-08-23,Audífonos,5
+2026-08-24,Audífonos,7
+2026-08-25,Audífonos,3
+2026-08-26,Audífonos,3
+2026-08-27,Audífonos,6
+2026-08-28,Audífonos,5
+2026-08-29,Audífonos,2
+2026-08-30,Audífonos,4
+2026-08-31,Audífonos,5
+2026-09-01,Audífonos,9
+2026-09-02,Audífonos,8
+2026-09-03,Audífonos,4
+2026-09-04,Audífonos,6
+2026-09-05,Audífonos,2
+2026-09-06,Audífonos,2
+2026-09-07,Audífonos,9
+2026-09-08,Audífonos,4
+2026-09-09,Audífonos,7
+2026-09-10,Audífonos,3
+2026-09-11,Audífonos,7
+2026-09-12,Audífonos,3
+2026-09-13,Audífonos,1
+2026-09-14,Audífonos,9
+2026-09-15,Audífonos,6
+2026-09-16,Audífonos,7
+2026-09-17,Audífonos,3
+2026-09-18,Audífonos,2
+2026-09-19,Audífonos,3
+2026-09-20,Audífonos,4
+2026-09-21,Audífonos,5
+2026-09-22,Audífonos,10
+2026-09-23,Audífonos,11
+2026-09-24,Audífonos,5
+2026-09-25,Audífonos,9
+2026-09-26,Audífonos,1
+2026-09-27,Audífonos,1
+2025-09-28,Mochila,2
+2025-09-29,Mochila,8
+2025-09-30,Mochila,2
+2025-10-01,Mochila,1
+2025-10-02,Mochila,1
+2025-10-03,Mochila,4
+2025-10-04,Mochila,1
+2025-10-05,Mochila,1
+2025-10-06,Mochila,6
+2025-10-07,Mochila,4
+2025-10-08,Mochila,2
+2025-10-09,Mochila,2
+2025-10-10,Mochila,4
+2025-10-11,Mochila,2
+2025-10-12,Mochila,1
+2025-10-13,Mochila,6
+2025-10-14,Mochila,2
+2025-10-15,Mochila,8
+2025-10-16,Mochila,2
+2025-10-17,Mochila,3
+2025-10-18,Mochila,0
+2025-10-19,Mochila,2
+2025-10-20,Mochila,6
+2025-10-21,Mochila,4
+2025-10-22,Mochila,2
+2025-10-23,Mochila,4
+2025-10-24,Mochila,5
+2025-10-25,Mochila,2
+2025-10-26,Mochila,3
+2025-10-27,Mochila,2
+2025-10-28,Mochila,3
+2025-10-29,Mochila,4
+2025-10-30,Mochila,0
+2025-10-31,Mochila,1
+2025-11-01,Mochila,1
+2025-11-02,Mochila,0
+2025-11-03,Mochila,3
+2025-11-04,Mochila,4
+2025-11-05,Mochila,7
+2025-11-06,Mochila,4
+2025-11-07,Mochila,4
+2025-11-08,Mochila,2
+2025-11-09,Mochila,3
+2025-11-10,Mochila,1
+2025-11-11,Mochila,4
+2025-11-12,Mochila,4
+2025-11-13,Mochila,2
+2025-11-14,Mochila,4
+2025-11-15,Mochila,0
+2025-11-16,Mochila,2
+2025-11-17,Mochila,4
+2025-11-18,Mochila,5
+2025-11-19,Mochila,7
+2025-11-20,Mochila,4
+2025-11-21,Mochila,6
+2025-11-22,Mochila,1
+2025-11-23,Mochila,2
+2025-11-24,Mochila,2
+2025-11-25,Mochila,2
+2025-11-26,Mochila,3
+2025-11-27,Mochila,3
+2025-11-28,Mochila,1
+2025-11-29,Mochila,2
+2025-11-30,Mochila,1
+2025-12-01,Mochila,9
+2025-12-02,Mochila,3
+2025-12-03,Mochila,2
+2025-12-04,Mochila,1
+2025-12-05,Mochila,3
+2025-12-06,Mochila,1
+2025-12-07,Mochila,2
+2025-12-08,Mochila,0
+2025-12-09,Mochila,3
+2025-12-10,Mochila,2
+2025-12-11,Mochila,6
+2025-12-12,Mochila,5
+2025-12-13,Mochila,2
+2025-12-14,Mochila,1
+2025-12-15,Mochila,1
+2025-12-16,Mochila,3
+2025-12-17,Mochila,2
+2025-12-18,Mochila,2
+2025-12-19,Mochila,6
+2025-12-20,Mochila,1
+2025-12-21,Mochila,1
+2025-12-22,Mochila,2
+2025-12-23,Mochila,2
+2025-12-24,Mochila,6
+2025-12-25,Mochila,3
+2025-12-26,Mochila,1
+2025-12-27,Mochila,1
+2025-12-28,Mochila,0
+2025-12-29,Mochila,8
+2025-12-30,Mochila,3
+2025-12-31,Mochila,1
+2026-01-01,Mochila,3
+2026-01-02,Mochila,4
+2026-01-03,Mochila,2
+2026-01-04,Mochila,2
+2026-01-05,Mochila,0
+2026-01-06,Mochila,4
+2026-01-07,Mochila,4
+2026-01-08,Mochila,5
+2026-01-09,Mochila,2
+2026-01-10,Mochila,1
+2026-01-11,Mochila,1
+2026-01-12,Mochila,5
+2026-01-13,Mochila,2
+2026-01-14,Mochila,6
+2026-01-15,Mochila,3
+2026-01-16,Mochila,3
+2026-01-17,Mochila,0
+2026-01-18,Mochila,4
+2026-01-19,Mochila,6
+2026-01-20,Mochila,5
+2026-01-21,Mochila,10
+2026-01-22,Mochila,4
+2026-01-23,Mochila,2
+2026-01-24,Mochila,1
+2026-01-25,Mochila,2
+2026-01-26,Mochila,3
+2026-01-27,Mochila,2
+2026-01-28,Mochila,6
+2026-01-29,Mochila,7
+2026-01-30,Mochila,5
+2026-01-31,Mochila,0
+2026-02-01,Mochila,1
+2026-02-02,Mochila,2
+2026-02-03,Mochila,3
+2026-02-04,Mochila,3
+2026-02-05,Mochila,9
+2026-02-06,Mochila,3
+2026-02-07,Mochila,2
+2026-02-08,Mochila,3
+2026-02-09,Mochila,1
+2026-02-10,Mochila,0
+2026-02-11,Mochila,5
+2026-02-12,Mochila,3
+2026-02-13,Mochila,5
+2026-02-14,Mochila,1
+2026-02-15,Mochila,1
+2026-02-16,Mochila,6
+2026-02-17,Mochila,5
+2026-02-18,Mochila,3
+2026-02-19,Mochila,3
+2026-02-20,Mochila,2
+2026-02-21,Mochila,1
+2026-02-22,Mochila,2
+2026-02-23,Mochila,2
+2026-02-24,Mochila,5
+2026-02-25,Mochila,2
+2026-02-26,Mochila,4
+2026-02-27,Mochila,5
+2026-02-28,Mochila,1
+2026-03-01,Mochila,0
+2026-03-02,Mochila,4
+2026-03-03,Mochila,5
+2026-03-04,Mochila,3
+2026-03-05,Mochila,4
+2026-03-06,Mochila,2
+2026-03-07,Mochila,2
+2026-03-08,Mochila,2
+2026-03-09,Mochila,2
+2026-03-10,Mochila,5
+2026-03-11,Mochila,2
+2026-03-12,Mochila,3
+2026-03-13,Mochila,3
+2026-03-14,Mochila,2
+2026-03-15,Mochila,0
+2026-03-16,Mochila,2
+2026-03-17,Mochila,6
+2026-03-18,Mochila,5
+2026-03-19,Mochila,3
+2026-03-20,Mochila,4
+2026-03-21,Mochila,1
+2026-03-22,Mochila,2
+2026-03-23,Mochila,5
+2026-03-24,Mochila,7
+2026-03-25,Mochila,6
+2026-03-26,Mochila,3
+2026-03-27,Mochila,1
+2026-03-28,Mochila,1
+2026-03-29,Mochila,0
+2026-03-30,Mochila,3
+2026-03-31,Mochila,2
+2026-04-01,Mochila,2
+2026-04-02,Mochila,2
+2026-04-03,Mochila,2
+2026-04-04,Mochila,1
+2026-04-05,Mochila,4
+2026-04-06,Mochila,3
+2026-04-07,Mochila,5
+2026-04-08,Mochila,4
+2026-04-09,Mochila,1
+2026-04-10,Mochila,2
+2026-04-11,Mochila,1
+2026-04-12,Mochila,0
+2026-04-13,Mochila,5
+2026-04-14,Mochila,6
+2026-04-15,Mochila,2
+2026-04-16,Mochila,2
+2026-04-17,Mochila,3
+2026-04-18,Mochila,1
+2026-04-19,Mochila,2
+2026-04-20,Mochila,2
+2026-04-21,Mochila,4
+2026-04-22,Mochila,5
+2026-04-23,Mochila,3
+2026-04-24,Mochila,4
+2026-04-25,Mochila,0
+2026-04-26,Mochila,1
+2026-04-27,Mochila,8
+2026-04-28,Mochila,3
+2026-04-29,Mochila,5
+2026-04-30,Mochila,3
+2026-05-01,Mochila,4
+2026-05-02,Mochila,0
+2026-05-03,Mochila,1
+2026-05-04,Mochila,4
+2026-05-05,Mochila,5
+2026-05-06,Mochila,3
+2026-05-07,Mochila,3
+2026-05-08,Mochila,5
+2026-05-09,Mochila,0
+2026-05-10,Mochila,2
+2026-05-11,Mochila,0
+2026-05-12,Mochila,3
+2026-05-13,Mochila,4
+2026-05-14,Mochila,6
+2026-05-15,Mochila,5
+2026-05-16,Mochila,1
+2026-05-17,Mochila,2
+2026-05-18,Mochila,4
+2026-05-19,Mochila,2
+2026-05-20,Mochila,5
+2026-05-21,Mochila,2
+2026-05-22,Mochila,3
+2026-05-23,Mochila,0
+2026-05-24,Mochila,0
+2026-05-25,Mochila,4
+2026-05-26,Mochila,3
+2026-05-27,Mochila,1
+2026-05-28,Mochila,2
+2026-05-29,Mochila,2
+2026-05-30,Mochila,1
+2026-05-31,Mochila,2
+2026-06-01,Mochila,5
+2026-06-02,Mochila,3
+2026-06-03,Mochila,6
+2026-06-04,Mochila,1
+2026-06-05,Mochila,4
+2026-06-06,Mochila,2
+2026-06-07,Mochila,1
+2026-06-08,Mochila,3
+2026-06-09,Mochila,6
+2026-06-10,Mochila,3
+2026-06-11,Mochila,1
+2026-06-12,Mochila,4
+2026-06-13,Mochila,2
+2026-06-14,Mochila,1
+2026-06-15,Mochila,7
+2026-06-16,Mochila,2
+2026-06-17,Mochila,4
+2026-06-18,Mochila,5
+2026-06-19,Mochila,4
+2026-06-20,Mochila,2
+2026-06-21,Mochila,2
+2026-06-22,Mochila,2
+2026-06-23,Mochila,3
+2026-06-24,Mochila,3
+2026-06-25,Mochila,3
+2026-06-26,Mochila,1
+2026-06-27,Mochila,2
+2026-06-28,Mochila,0
+2026-06-29,Mochila,1
+2026-06-30,Mochila,3
+2026-07-01,Mochila,2
+2026-07-02,Mochila,2
+2026-07-03,Mochila,4
+2026-07-04,Mochila,2
+2026-07-05,Mochila,2
+2026-07-06,Mochila,5
+2026-07-07,Mochila,5
+2026-07-08,Mochila,3
+2026-07-09,Mochila,2
+2026-07-10,Mochila,4
+2026-07-11,Mochila,0
+2026-07-12,Mochila,3
+2026-07-13,Mochila,1
+2026-07-14,Mochila,7
+2026-07-15,Mochila,4
+2026-07-16,Mochila,2
+2026-07-17,Mochila,3
+2026-07-18,Mochila,1
+2026-07-19,Mochila,3
+2026-07-20,Mochila,0
+2026-07-21,Mochila,2
+2026-07-22,Mochila,4
+2026-07-23,Mochila,6
+2026-07-24,Mochila,4
+2026-07-25,Mochila,2
+2026-07-26,Mochila,2
+2026-07-27,Mochila,0
+2026-07-28,Mochila,5
+2026-07-29,Mochila,3
+2026-07-30,Mochila,1
+2026-07-31,Mochila,5
+2026-08-01,Mochila,3
+2026-08-02,Mochila,0
+2026-08-03,Mochila,5
+2026-08-04,Mochila,5
+2026-08-05,Mochila,4
+2026-08-06,Mochila,2
+2026-08-07,Mochila,3
+2026-08-08,Mochila,0
+2026-08-09,Mochila,1
+2026-08-10,Mochila,4
+2026-08-11,Mochila,1
+2026-08-12,Mochila,4
+2026-08-13,Mochila,3
+2026-08-14,Mochila,3
+2026-08-15,Mochila,0
+2026-08-16,Mochila,2
+2026-08-17,Mochila,1
+2026-08-18,Mochila,7
+2026-08-19,Mochila,2
+2026-08-20,Mochila,1
+2026-08-21,Mochila,8
+2026-08-22,Mochila,0
+2026-08-23,Mochila,0
+2026-08-24,Mochila,4
+2026-08-25,Mochila,3
+2026-08-26,Mochila,5
+2026-08-27,Mochila,4
+2026-08-28,Mochila,4
+2026-08-29,Mochila,1
+2026-08-30,Mochila,4
+2026-08-31,Mochila,3
+2026-09-01,Mochila,4
+2026-09-02,Mochila,6
+2026-09-03,Mochila,7
+2026-09-04,Mochila,1
+2026-09-05,Mochila,2
+2026-09-06,Mochila,1
+2026-09-07,Mochila,7
+2026-09-08,Mochila,6
+2026-09-09,Mochila,3
+2026-09-10,Mochila,4
+2026-09-11,Mochila,1
+2026-09-12,Mochila,1
+2026-09-13,Mochila,3
+2026-09-14,Mochila,0
+2026-09-15,Mochila,3
+2026-09-16,Mochila,5
+2026-09-17,Mochila,2
+2026-09-18,Mochila,1
+2026-09-19,Mochila,1
+2026-09-20,Mochila,4
+2026-09-21,Mochila,3
+2026-09-22,Mochila,2
+2026-09-23,Mochila,0
+2026-09-24,Mochila,4
+2026-09-25,Mochila,3
+2026-09-26,Mochila,0
+2026-09-27,Mochila,0
