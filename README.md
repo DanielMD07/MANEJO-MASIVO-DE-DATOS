@@ -2,6 +2,7 @@
 **Sistema de recomendación de reposición de inventario**
 
 Unidad I — Fundamentos de Big Data (Manejo Masivo de Datos)
+
 Integrantes: Garcia Trejo Regina Zoe, Hernandez Alfonso Emmanuel, Malagon De Santiago Daniel Efren · Grupo IDIA 222 · UPQ
 
 ## Problema
