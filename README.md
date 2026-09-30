@@ -61,7 +61,7 @@ El diagrama de arquitectura está en `docs/arquitectura.png`.
  También el ver cómo el sistema pasa de un simple registro de ventas a una recomendación de compra , caí más en cuenta de la importancia que tiene cada uno de los 
  datos sin importar que es , además de lo importante que es tener el stock o los datos mal capturados , toda la recomendación o el análisis saldría mal
 
--**Hernandez Alfonso Emmanuel:** Lo que más aprendí fue la diferencia práctica entre los tres niveles de analítica: no basta con describir lo que pasó o predecir
+- **Hernandez Alfonso Emmanuel:** Lo que más aprendí fue la diferencia práctica entre los tres niveles de analítica: no basta con describir lo que pasó o predecir
  lo que podría pasar, el valor real está en convertir eso en una acción concreta. Implementar las fórmulas de punto de reorden y EOQ me mostró que la optimización
  no siempre requiere modelos complejos; con reglas claras y datos bien organizados se puede tomar una buena decisión.
 
