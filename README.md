@@ -55,6 +55,19 @@ El diagrama de arquitectura está en `docs/arquitectura.png`.
 - Es un modelo simplificado para comprender el concepto, no un sistema de producción.
 
 ## Conclusiones individuales
-- **Malagon De Santiago Daniel Efren:** (tu conclusión)
-- **Garcia Trejo Regina Zoe:** (su conclusión)
-- **Hernandez Alfonso Emmanuel:** (su conclusión)
+
+- **Garcia Trejo Regina Zoe:** Trabajar eh investigar sobre este tema , me ayudó a poder tener más claras ciertas cosas que solo tenía el conocimiento básico
+ o reforzar lo que ya sabía , como el entender la analítica prescriptiva no reemplaza la decisión de las personas , si no la respalda con una justificación clara .
+ También el ver cómo el sistema pasa de un simple registro de ventas a una recomendación de compra , caí más en cuenta de la importancia que tiene cada uno de los 
+ datos sin importar que es , además de lo importante que es tener el stock o los datos mal capturados , toda la recomendación o el análisis saldría mal
+
+-**Hernandez Alfonso Emmanuel:** Lo que más aprendí fue la diferencia práctica entre los tres niveles de analítica: no basta con describir lo que pasó o predecir
+ lo que podría pasar, el valor real está en convertir eso en una acción concreta. Implementar las fórmulas de punto de reorden y EOQ me mostró que la optimización
+ no siempre requiere modelos complejos; con reglas claras y datos bien organizados se puede tomar una buena decisión.
+
+- **Malagon De Santiago Daniel Efren:** Este proyecto me dejó claro que la parte técnica código, fórmulas, arquitectura es solo la mitad del trabajo;
+ la otra mitad es poder explicar por qué el sistema recomienda lo que recomienda. Documentar el flujo Datos  Análisis  Resultado  Recomendación 
+ Acción me ayudó a entender mejor cómo se conecta la teoría  con un caso real y ejecutable e incluso podria llegar a aplicarlo debido a que yo trabajo
+ en una tienda y el tema del inventario es mi pan de cada dia.
+
+
